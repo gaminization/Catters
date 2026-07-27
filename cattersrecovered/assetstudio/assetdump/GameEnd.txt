@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GameEnd",
+    "m_Namespace": "",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "GameEnd",
+    "m_PathID": 78,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 68
+}

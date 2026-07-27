@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LayoutRebuilder",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "LayoutRebuilder",
+    "m_PathID": 4,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

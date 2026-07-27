@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PanelRaycaster",
+    "m_Namespace": "UnityEngine.UIElements",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "PanelRaycaster",
+    "m_PathID": 539,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ClipperRegistry",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "ClipperRegistry",
+    "m_PathID": 693,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SerializationVisitor",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SerializationVisitor",
+    "m_PathID": 143,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

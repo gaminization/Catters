@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ILayoutElement",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "ILayoutElement",
+    "m_PathID": 243,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

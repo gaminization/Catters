@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IUnityObjectOwnable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IUnityObjectOwnable",
+    "m_PathID": 346,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

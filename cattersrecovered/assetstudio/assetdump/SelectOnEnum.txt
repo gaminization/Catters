@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SelectOnEnum",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SelectOnEnum",
+    "m_PathID": 1049,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

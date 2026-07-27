@@ -1,0 +1,55 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1770",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 648
+        }
+    ],
+    "m_Name": "DEF_toe.L_end",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.00017987,
+            "Z": 0.0
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        },
+        "m_Children": [],
+        "m_Father": {
+            "Name": "Transform_#1579",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 457
+        },
+        "m_GameObject": {
+            "Name": "DEF_toe.L_end",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 298
+        },
+        "m_PathID": 648,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 68
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 298,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 43
+}

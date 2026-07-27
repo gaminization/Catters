@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RaycastResult",
+    "m_Namespace": "UnityEngine.EventSystems",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "RaycastResult",
+    "m_PathID": 238,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

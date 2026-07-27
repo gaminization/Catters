@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IRemoteTestResultDataFactory",
+    "m_Namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IRemoteTestResultDataFactory",
+    "m_PathID": 600,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

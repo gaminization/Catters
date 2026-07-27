@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector2Absolute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector2Absolute",
+    "m_PathID": 394,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

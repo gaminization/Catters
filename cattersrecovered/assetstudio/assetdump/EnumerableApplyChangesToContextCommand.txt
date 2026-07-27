@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EnumerableApplyChangesToContextCommand",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "EnumerableApplyChangesToContextCommand",
+    "m_PathID": 271,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 164
+}

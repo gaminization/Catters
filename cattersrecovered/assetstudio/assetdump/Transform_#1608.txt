@@ -1,0 +1,42 @@
+{
+    "m_LocalRotation": {
+        "X": -0.04238976,
+        "Y": 0.8223135,
+        "Z": -0.5588819,
+        "W": -0.09825794
+    },
+    "m_LocalPosition": {
+        "X": -0.0001498785,
+        "Y": 0.0003095997,
+        "Z": -0.0002208457
+    },
+    "m_LocalScale": {
+        "X": 0.9999999,
+        "Y": 1.0,
+        "Z": 1.0
+    },
+    "m_Children": [
+        {
+            "Name": "Transform_#1601",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 479
+        }
+    ],
+    "m_Father": {
+        "Name": "Transform_#1772",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 650
+    },
+    "m_GameObject": {
+        "Name": "DEF_shoulder.L",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 303
+    },
+    "m_PathID": 486,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 80
+}

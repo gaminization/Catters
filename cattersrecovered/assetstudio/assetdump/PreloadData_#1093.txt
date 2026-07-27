@@ -1,0 +1,135 @@
+{
+    "m_Assets": [
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 6
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 7
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 10770
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 3,
+            "m_PathID": 10001
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 3,
+            "m_PathID": 10101
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 3,
+            "m_PathID": 10202
+        },
+        {
+            "Name": "CanvasScaler",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 64
+        },
+        {
+            "Name": "GameEnd",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 78
+        },
+        {
+            "Name": "RawImage",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 87
+        },
+        {
+            "Name": "GameManager",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 139
+        },
+        {
+            "Name": "FollowPlayer",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 294
+        },
+        {
+            "Name": "Score",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 336
+        },
+        {
+            "Name": "StandaloneInputModule",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 342
+        },
+        {
+            "Name": "TMP_FontAsset",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 501
+        },
+        {
+            "Name": "EventSystem",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 528
+        },
+        {
+            "Name": "PlayerCollision",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 689
+        },
+        {
+            "Name": "PlayerMovement",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 805
+        },
+        {
+            "Name": "MyButton",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 820
+        },
+        {
+            "Name": "GraphicRaycaster",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 936
+        },
+        {
+            "Name": "TextMeshProUGUI",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 1022
+        },
+        {
+            "Name": "Image",
+            "IsNull": false,
+            "m_FileID": 1,
+            "m_PathID": 1064
+        }
+    ],
+    "m_Name": "",
+    "m_PathID": 1,
+    "type": "PreloadData",
+    "classID": 150,
+    "byteSize": 265
+}

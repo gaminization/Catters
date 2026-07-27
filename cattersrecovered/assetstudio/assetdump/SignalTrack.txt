@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SignalTrack",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "SignalTrack",
+    "m_PathID": 765,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

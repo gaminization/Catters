@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SetListItem",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SetListItem",
+    "m_PathID": 785,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

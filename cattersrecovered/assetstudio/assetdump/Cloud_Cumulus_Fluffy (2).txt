@@ -1,0 +1,114 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1483",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 361
+        },
+        {
+            "Name": "MeshFilter_#2070",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 948
+        },
+        {
+            "Name": "MeshRenderer_#1807",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 685
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1182
+        }
+    ],
+    "m_Name": "Cloud_Cumulus_Fluffy (2)",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0,
+            "Y": 0.7072302,
+            "Z": 0.7069834,
+            "W": 0.0
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        },
+        "m_Children": [],
+        "m_Father": {
+            "Name": "Transform_#1559",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 437
+        },
+        "m_GameObject": {
+            "Name": "Cloud_Cumulus_Fluffy (2)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 35
+        },
+        "m_PathID": 361,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 68
+    },
+    "m_MeshRenderer": {
+        "m_Materials": [
+            {
+                "Name": "New Material 1",
+                "IsNull": false,
+                "m_FileID": 2,
+                "m_PathID": 6
+            }
+        ],
+        "m_StaticBatchInfo": {
+            "firstSubMesh": 0,
+            "subMeshCount": 0
+        },
+        "m_SubsetIndices": null,
+        "m_GameObject": {
+            "Name": "Cloud_Cumulus_Fluffy (2)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 35
+        },
+        "m_PathID": 685,
+        "type": "MeshRenderer",
+        "classID": 23,
+        "byteSize": 156
+    },
+    "m_MeshFilter": {
+        "m_Mesh": {
+            "Name": "Cloud_Cumulus_Fluffy",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 18
+        },
+        "m_GameObject": {
+            "Name": "Cloud_Cumulus_Fluffy (2)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 35
+        },
+        "m_PathID": 948,
+        "type": "MeshFilter",
+        "classID": 33,
+        "byteSize": 24
+    },
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 35,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 87
+}

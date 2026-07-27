@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "VertexShakeA",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "VertexShakeA",
+    "m_PathID": 1033,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

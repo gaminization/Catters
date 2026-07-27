@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnitRelation",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "UnitRelation",
+    "m_PathID": 1017,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

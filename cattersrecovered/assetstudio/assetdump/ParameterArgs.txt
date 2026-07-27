@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ParameterArgs",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ParameterArgs",
+    "m_PathID": 117,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

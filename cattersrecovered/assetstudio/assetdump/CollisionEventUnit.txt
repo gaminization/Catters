@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "CollisionEventUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "CollisionEventUnit",
+    "m_PathID": 751,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

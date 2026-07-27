@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnPointerEnter",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnPointerEnter",
+    "m_PathID": 312,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

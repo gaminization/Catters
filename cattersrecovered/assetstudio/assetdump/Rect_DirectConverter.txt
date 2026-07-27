@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Rect_DirectConverter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "Rect_DirectConverter",
+    "m_PathID": 561,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

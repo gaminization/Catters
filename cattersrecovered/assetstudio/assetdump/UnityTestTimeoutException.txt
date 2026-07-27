@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityTestTimeoutException",
+    "m_Namespace": "UnityEngine.TestTools.TestRunner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "UnityTestTimeoutException",
+    "m_PathID": 1073,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

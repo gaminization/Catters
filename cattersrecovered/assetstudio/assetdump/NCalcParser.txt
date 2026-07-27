@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "NCalcParser",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "NCalcParser",
+    "m_PathID": 603,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnMouseUpMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnMouseUpMessageListener",
+    "m_PathID": 628,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

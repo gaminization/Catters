@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ForEach",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ForEach",
+    "m_PathID": 888,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

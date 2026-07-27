@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LogicalExpression",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "LogicalExpression",
+    "m_PathID": 198,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

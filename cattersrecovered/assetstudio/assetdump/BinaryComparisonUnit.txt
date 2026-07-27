@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BinaryComparisonUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "BinaryComparisonUnit",
+    "m_PathID": 1026,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

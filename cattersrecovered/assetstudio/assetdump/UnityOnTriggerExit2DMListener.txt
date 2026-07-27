@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnTriggerExit2DMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnTriggerExit2DMListener",
+    "m_PathID": 218,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}

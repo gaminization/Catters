@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ScriptGraphAsset",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ScriptGraphAsset",
+    "m_PathID": 659,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

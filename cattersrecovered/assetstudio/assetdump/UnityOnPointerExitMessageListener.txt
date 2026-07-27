@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnPointerExitMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnPointerExitMessageListener",
+    "m_PathID": 297,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 160
+}

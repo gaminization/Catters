@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector2Divide",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector2Divide",
+    "m_PathID": 327,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IClipper",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "IClipRegion",
+    "m_PathID": 246,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 88
+}

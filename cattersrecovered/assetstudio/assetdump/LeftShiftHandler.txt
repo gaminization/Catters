@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LeftShiftHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "LeftShiftHandler",
+    "m_PathID": 160,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

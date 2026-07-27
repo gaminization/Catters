@@ -1,0 +1,122 @@
+{
+    "m_Shader": {
+        "Name": "",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 22
+    },
+    "m_SavedProperties": {
+        "m_TexEnvs": [],
+        "m_Ints": [],
+        "m_Floats": [
+            {
+                "Key": "_HorizonLineBlendMode",
+                "Value": 1.0
+            },
+            {
+                "Key": "_HorizonLineContribution",
+                "Value": 0.32
+            },
+            {
+                "Key": "_HorizonLineExponent",
+                "Value": 5.0
+            },
+            {
+                "Key": "_SkyGradientExponent",
+                "Value": 0.25
+            },
+            {
+                "Key": "_SunDiscContribution",
+                "Value": 1.0
+            },
+            {
+                "Key": "_SunDiscExponent",
+                "Value": 100000.0
+            },
+            {
+                "Key": "_SunDiscExponentSize",
+                "Value": 12000.0
+            },
+            {
+                "Key": "_SunDiscMultiplier",
+                "Value": 100000.0
+            },
+            {
+                "Key": "_SunDiscMultiplierSharpness",
+                "Value": 1200.0
+            },
+            {
+                "Key": "_SunHaloBlendMode",
+                "Value": 0.0
+            },
+            {
+                "Key": "_SunHaloContribution",
+                "Value": 0.5
+            },
+            {
+                "Key": "_SunHaloExponent",
+                "Value": 250.0
+            },
+            {
+                "Key": "_View",
+                "Value": 0.0
+            },
+            {
+                "Key": "__dirty",
+                "Value": 0.0
+            }
+        ],
+        "m_Colors": [
+            {
+                "Key": "_HorizonLineColor",
+                "Value": {
+                    "R": 0.854902,
+                    "G": 0.7764707,
+                    "B": 0.8470588,
+                    "A": 0.8509804
+                }
+            },
+            {
+                "Key": "_SkyGradientBottom",
+                "Value": {
+                    "R": 0.485294,
+                    "G": 0.3354238,
+                    "B": 0.485294,
+                    "A": 1.0
+                }
+            },
+            {
+                "Key": "_SkyGradientTop",
+                "Value": {
+                    "R": 0.233564,
+                    "G": 0.2368214,
+                    "B": 0.7058823,
+                    "A": 1.0
+                }
+            },
+            {
+                "Key": "_SunDiscColor",
+                "Value": {
+                    "R": 1.0,
+                    "G": 0.9411765,
+                    "B": 0.8705883,
+                    "A": 1.0
+                }
+            },
+            {
+                "Key": "_SunHaloColor",
+                "Value": {
+                    "R": 1.0,
+                    "G": 0.3737834,
+                    "B": 0.09803921,
+                    "A": 1.0
+                }
+            }
+        ]
+    },
+    "m_Name": "Sunset5",
+    "m_PathID": 4,
+    "type": "Material",
+    "classID": 21,
+    "byteSize": 712
+}

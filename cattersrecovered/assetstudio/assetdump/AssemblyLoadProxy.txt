@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AssemblyLoadProxy",
+    "m_Namespace": "UnityEngine.TestTools.Utils",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "AssemblyLoadProxy",
+    "m_PathID": 1052,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

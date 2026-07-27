@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsDateConverter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsDateConverter",
+    "m_PathID": 758,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

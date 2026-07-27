@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ClearList",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ClearList",
+    "m_PathID": 383,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

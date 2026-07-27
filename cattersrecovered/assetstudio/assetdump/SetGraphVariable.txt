@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SetGraphVariable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SetGraphVariable",
+    "m_PathID": 566,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

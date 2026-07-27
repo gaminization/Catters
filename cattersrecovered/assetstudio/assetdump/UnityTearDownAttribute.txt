@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityTearDownAttribute",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "UnityTearDownAttribute",
+    "m_PathID": 417,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

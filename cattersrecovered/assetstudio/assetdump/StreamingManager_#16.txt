@@ -1,0 +1,6 @@
+{
+    "m_PathID": 19,
+    "type": "StreamingManager",
+    "classID": 1403656975,
+    "byteSize": 0
+}

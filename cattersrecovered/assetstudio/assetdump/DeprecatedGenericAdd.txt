@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "DeprecatedGenericAdd",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "DeprecatedGenericAdd",
+    "m_PathID": 320,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

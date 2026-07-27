@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RenamedAssemblyAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "RenamedAssemblyAttribute",
+    "m_PathID": 116,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsAotCompilationManager",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsAotCompilationManager",
+    "m_PathID": 1029,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

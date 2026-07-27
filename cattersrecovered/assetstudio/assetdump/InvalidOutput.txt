@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InvalidOutput",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "InvalidOutput",
+    "m_PathID": 181,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

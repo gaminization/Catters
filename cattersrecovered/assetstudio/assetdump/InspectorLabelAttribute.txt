@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InspectorLabelAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "InspectorLabelAttribute",
+    "m_PathID": 17,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

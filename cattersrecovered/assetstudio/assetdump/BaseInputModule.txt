@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BaseInputModule",
+    "m_Namespace": "UnityEngine.EventSystems",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "BaseInputModule",
+    "m_PathID": 131,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

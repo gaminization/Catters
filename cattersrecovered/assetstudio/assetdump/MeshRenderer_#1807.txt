@@ -1,0 +1,25 @@
+{
+    "m_Materials": [
+        {
+            "Name": "New Material 1",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 6
+        }
+    ],
+    "m_StaticBatchInfo": {
+        "firstSubMesh": 0,
+        "subMeshCount": 0
+    },
+    "m_SubsetIndices": null,
+    "m_GameObject": {
+        "Name": "Cloud_Cumulus_Fluffy (2)",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 35
+    },
+    "m_PathID": 685,
+    "type": "MeshRenderer",
+    "classID": 23,
+    "byteSize": 156
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IEventSystemHandler",
+    "m_Namespace": "UnityEngine.EventSystems",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "EventInterfaces",
+    "m_PathID": 157,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

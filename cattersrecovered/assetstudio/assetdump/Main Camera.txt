@@ -1,0 +1,73 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1504",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 382
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 654
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1446
+        },
+        {
+            "Name": "FollowPlayer",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1584
+        }
+    ],
+    "m_Name": "Main Camera",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": -0.04361941,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.9990483
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.25,
+            "Z": 0.0
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        },
+        "m_Children": [],
+        "m_Father": {
+            "Name": "",
+            "IsNull": true,
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_GameObject": {
+            "Name": "Main Camera",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 56
+        },
+        "m_PathID": 382,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 68
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 56,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 75
+}

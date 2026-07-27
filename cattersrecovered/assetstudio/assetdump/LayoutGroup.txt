@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LayoutGroup",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "LayoutGroup",
+    "m_PathID": 860,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

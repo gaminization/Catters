@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AudioMixerProperties",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "AudioMixerProperties",
+    "m_PathID": 924,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

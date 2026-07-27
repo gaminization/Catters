@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AmbiguousOperatorException",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "AmbiguousOperatorException",
+    "m_PathID": 298,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

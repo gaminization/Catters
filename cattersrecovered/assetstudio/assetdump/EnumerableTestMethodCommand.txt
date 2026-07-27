@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EnumerableTestMethodCommand",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "EnumerableTestMethodCommand",
+    "m_PathID": 110,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

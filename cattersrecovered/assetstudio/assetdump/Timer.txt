@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Timer",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Timer",
+    "m_PathID": 668,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

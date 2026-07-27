@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Ray2DConverter",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "Ray2DConverter",
+    "m_PathID": 651,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

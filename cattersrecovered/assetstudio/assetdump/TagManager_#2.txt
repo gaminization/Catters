@@ -1,0 +1,6 @@
+{
+    "m_PathID": 3,
+    "type": "TagManager",
+    "classID": 78,
+    "byteSize": 232
+}

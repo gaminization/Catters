@@ -1,0 +1,37 @@
+{
+    "m_AnimationClips": [
+        {
+            "Name": "cat_armature|walk",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 24
+        }
+    ],
+    "m_TOS": [
+        {
+            "Key": 2105523844,
+            "Value": "GravityWeight"
+        },
+        {
+            "Key": 2375121493,
+            "Value": "walk"
+        },
+        {
+            "Key": 756556552,
+            "Value": "Base Layer"
+        },
+        {
+            "Key": 0,
+            "Value": ""
+        },
+        {
+            "Key": 2767069191,
+            "Value": "Base Layer.walk"
+        }
+    ],
+    "m_Name": "cat",
+    "m_PathID": 28,
+    "type": "AnimatorController",
+    "classID": 91,
+    "byteSize": 400
+}

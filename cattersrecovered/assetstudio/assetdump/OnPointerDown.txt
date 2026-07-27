@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnPointerDown",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnPointerDown",
+    "m_PathID": 349,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

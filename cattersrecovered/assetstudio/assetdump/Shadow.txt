@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Shadow",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Shadow",
+    "m_PathID": 877,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

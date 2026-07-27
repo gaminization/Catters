@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AotDictionary",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "AotDictionary",
+    "m_PathID": 1009,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

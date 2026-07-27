@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RaycasterManager",
+    "m_Namespace": "UnityEngine.EventSystems",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "RaycasterManager",
+    "m_PathID": 164,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

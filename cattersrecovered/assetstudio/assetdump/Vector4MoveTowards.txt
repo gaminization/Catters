@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector4MoveTowards",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector4MoveTowards",
+    "m_PathID": 505,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

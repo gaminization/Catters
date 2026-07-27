@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OptimizedReflection",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "OptimizedReflection",
+    "m_PathID": 1002,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

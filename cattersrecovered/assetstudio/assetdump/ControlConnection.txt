@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ControlConnection",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ControlConnection",
+    "m_PathID": 777,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

@@ -1,0 +1,31 @@
+{
+    "m_Width": 2048,
+    "m_Height": 2048,
+    "m_CompleteImageSize": 2497712,
+    "m_TextureFormat": 50,
+    "m_MipMap": false,
+    "m_MipCount": 12,
+    "m_TextureSettings": {
+        "m_FilterMode": 1,
+        "m_Aniso": 1,
+        "m_MipBias": 0.0,
+        "m_WrapMode": 0
+    },
+    "m_ImageCount": 1,
+    "m_PlatformBlob": "",
+    "image data": {
+        "Size": 2497712,
+        "Offset": 631760
+    },
+    "m_StreamData": {
+        "offset": 631760,
+        "size": 2497712,
+        "path": "sharedassets0.assets.resS"
+    },
+    "m_DataStreamData": null,
+    "m_Name": "265172224002212",
+    "m_PathID": 13,
+    "type": "Texture2D",
+    "classID": 28,
+    "byteSize": 160
+}

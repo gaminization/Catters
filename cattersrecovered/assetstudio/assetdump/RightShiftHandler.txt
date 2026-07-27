@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RightShiftHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "RightShiftHandler",
+    "m_PathID": 502,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

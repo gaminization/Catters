@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BasicPlayableBehaviour",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "BasicScriptPlayable",
+    "m_PathID": 1061,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 116
+}

@@ -1,0 +1,6 @@
+{
+    "m_PathID": 14,
+    "type": "NavMeshProjectSettings",
+    "classID": 126,
+    "byteSize": 372
+}

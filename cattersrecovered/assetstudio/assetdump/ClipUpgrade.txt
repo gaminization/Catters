@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TimelineClip",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "ClipUpgrade",
+    "m_PathID": 462,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ValueInputDefinition",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ValueInputDefinition",
+    "m_PathID": 213,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

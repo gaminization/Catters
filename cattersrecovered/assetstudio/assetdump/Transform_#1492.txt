@@ -1,0 +1,35 @@
+{
+    "m_LocalRotation": {
+        "X": -0.7071068,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.7071067
+    },
+    "m_LocalPosition": {
+        "X": 135.8,
+        "Y": -16.2,
+        "Z": 2.200012
+    },
+    "m_LocalScale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+    },
+    "m_Children": [],
+    "m_Father": {
+        "Name": "Transform_#1559",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 437
+    },
+    "m_GameObject": {
+        "Name": "Cloud_Cumulus_Fluffy",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 44
+    },
+    "m_PathID": 370,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 68
+}

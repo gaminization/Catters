@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnCollisionEnter2D",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnCollisionEnter2D",
+    "m_PathID": 942,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Selectable",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Selectable",
+    "m_PathID": 540,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

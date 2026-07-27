@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AndHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "AndHandler",
+    "m_PathID": 1034,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

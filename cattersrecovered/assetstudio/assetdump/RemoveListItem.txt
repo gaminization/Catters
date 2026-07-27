@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RemoveListItem",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "RemoveListItem",
+    "m_PathID": 499,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

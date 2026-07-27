@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnDisable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnDisable",
+    "m_PathID": 71,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

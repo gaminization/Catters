@@ -1,0 +1,6 @@
+{
+    "m_PathID": 7,
+    "type": "GraphicsSettings",
+    "classID": 30,
+    "byteSize": 742
+}

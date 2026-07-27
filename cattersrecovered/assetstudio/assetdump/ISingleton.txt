@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ISingleton",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ISingleton",
+    "m_PathID": 145,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

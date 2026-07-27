@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GetGraphVariable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GetGraphVariable",
+    "m_PathID": 819,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

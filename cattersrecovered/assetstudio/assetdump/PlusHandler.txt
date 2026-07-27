@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PlusHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "PlusHandler",
+    "m_PathID": 510,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

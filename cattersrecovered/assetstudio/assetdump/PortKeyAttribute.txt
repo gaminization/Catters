@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PortKeyAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "PortKeyAttribute",
+    "m_PathID": 772,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ScrollRect",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "ScrollRect",
+    "m_PathID": 113,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

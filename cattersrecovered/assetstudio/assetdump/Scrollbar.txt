@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Scrollbar",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Scrollbar",
+    "m_PathID": 186,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

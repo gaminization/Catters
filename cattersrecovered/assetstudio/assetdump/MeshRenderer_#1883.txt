@@ -1,0 +1,25 @@
+{
+    "m_Materials": [
+        {
+            "Name": "New Material",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 7
+        }
+    ],
+    "m_StaticBatchInfo": {
+        "firstSubMesh": 0,
+        "subMeshCount": 0
+    },
+    "m_SubsetIndices": null,
+    "m_GameObject": {
+        "Name": "Cube (1)",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 119
+    },
+    "m_PathID": 761,
+    "type": "MeshRenderer",
+    "classID": 23,
+    "byteSize": 156
+}

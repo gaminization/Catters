@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "FieldsCloner",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "FieldsCloner",
+    "m_PathID": 1019,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

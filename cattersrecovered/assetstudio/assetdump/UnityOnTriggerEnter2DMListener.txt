@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnTriggerEnter2DMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnTriggerEnter2DMListener",
+    "m_PathID": 929,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AotList",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "AotList",
+    "m_PathID": 722,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

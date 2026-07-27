@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "XColor",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "XColor",
+    "m_PathID": 870,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

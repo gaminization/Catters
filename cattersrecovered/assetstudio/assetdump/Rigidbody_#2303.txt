@@ -1,0 +1,6 @@
+{
+    "m_PathID": 1181,
+    "type": "Rigidbody",
+    "classID": 54,
+    "byteSize": 88
+}

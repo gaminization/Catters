@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Text",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Text",
+    "m_PathID": 414,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 76
+}

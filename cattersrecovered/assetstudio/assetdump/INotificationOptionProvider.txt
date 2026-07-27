@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "INotificationOptionProvider",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "INotificationOptionProvider",
+    "m_PathID": 350,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

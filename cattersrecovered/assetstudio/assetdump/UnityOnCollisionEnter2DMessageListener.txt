@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnCollisionEnter2DMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnCollisionEnter2DMessageListener",
+    "m_PathID": 696,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 168
+}

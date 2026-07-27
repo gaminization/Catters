@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ObjectSpin",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "ObjectSpin",
+    "m_PathID": 341,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

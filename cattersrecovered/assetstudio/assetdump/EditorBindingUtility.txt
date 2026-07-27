@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EditorBindingUtility",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "EditorBindingUtility",
+    "m_PathID": 926,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

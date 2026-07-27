@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IPrewarmable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IPrewarmable",
+    "m_PathID": 532,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

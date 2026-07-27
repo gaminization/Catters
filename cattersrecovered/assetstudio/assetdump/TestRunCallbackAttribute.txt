@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TestRunCallbackAttribute",
+    "m_Namespace": "UnityEngine.TestRunner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "TestRunCallbackAttribute",
+    "m_PathID": 525,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

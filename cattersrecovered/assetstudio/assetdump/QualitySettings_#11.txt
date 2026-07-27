@@ -1,0 +1,6 @@
+{
+    "m_PathID": 12,
+    "type": "QualitySettings",
+    "classID": 47,
+    "byteSize": 1164
+}

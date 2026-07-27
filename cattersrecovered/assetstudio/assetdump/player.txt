@@ -1,0 +1,129 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1590",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 468
+        },
+        {
+            "Name": "player",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1559
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1421
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1181
+        },
+        {
+            "Name": "PlayerMovement",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1587
+        },
+        {
+            "Name": "PlayerCollision",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1588
+        },
+        {
+            "Name": "GameEnd",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1589
+        }
+    ],
+    "m_Name": "player",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 1.0
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        },
+        "m_Children": [
+            {
+                "Name": "Transform_#1606",
+                "IsNull": false,
+                "m_FileID": 0,
+                "m_PathID": 484
+            },
+            {
+                "Name": "Transform_#1609",
+                "IsNull": false,
+                "m_FileID": 0,
+                "m_PathID": 487
+            }
+        ],
+        "m_Father": {
+            "Name": "",
+            "IsNull": true,
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_GameObject": {
+            "Name": "player",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 140
+        },
+        "m_PathID": 468,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 92
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": {
+        "m_Avatar": {
+            "Name": "catAvatar",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 27
+        },
+        "m_Controller": {
+            "Name": "cat",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 28
+        },
+        "m_HasTransformHierarchy": true,
+        "m_Enabled": 1,
+        "m_GameObject": {
+            "Name": "player",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 140
+        },
+        "m_PathID": 1559,
+        "type": "Animator",
+        "classID": 95,
+        "byteSize": 56
+    },
+    "m_Animation": null,
+    "m_PathID": 140,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 107
+}

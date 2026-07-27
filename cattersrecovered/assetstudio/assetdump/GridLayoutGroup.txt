@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GridLayoutGroup",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "GridLayoutGroup",
+    "m_PathID": 611,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

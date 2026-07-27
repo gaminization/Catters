@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ISerializedPropertyProvider",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ISerializedPropertyProvider",
+    "m_PathID": 554,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

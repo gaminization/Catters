@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RemoveDictionaryItem",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "RemoveDictionaryItem",
+    "m_PathID": 970,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

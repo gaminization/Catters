@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IGizmoDrawer",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IGizmoDrawer",
+    "m_PathID": 469,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

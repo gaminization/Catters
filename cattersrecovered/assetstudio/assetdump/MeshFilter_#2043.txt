@@ -1,0 +1,18 @@
+{
+    "m_Mesh": {
+        "Name": "",
+        "IsNull": false,
+        "m_FileID": 3,
+        "m_PathID": 10202
+    },
+    "m_GameObject": {
+        "Name": "Cube",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 4
+    },
+    "m_PathID": 921,
+    "type": "MeshFilter",
+    "classID": 33,
+    "byteSize": 24
+}

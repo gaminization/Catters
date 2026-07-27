@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector2DotProduct",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector2DotProduct",
+    "m_PathID": 373,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

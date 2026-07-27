@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnCancel",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnCancel",
+    "m_PathID": 448,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

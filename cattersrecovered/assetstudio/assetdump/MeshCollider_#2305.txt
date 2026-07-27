@@ -1,0 +1,6 @@
+{
+    "m_PathID": 1183,
+    "type": "MeshCollider",
+    "classID": 64,
+    "byteSize": 64
+}

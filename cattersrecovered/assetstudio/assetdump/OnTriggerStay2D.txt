@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnTriggerStay2D",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnTriggerStay2D",
+    "m_PathID": 763,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

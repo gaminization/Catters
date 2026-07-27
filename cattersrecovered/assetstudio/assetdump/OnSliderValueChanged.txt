@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnSliderValueChanged",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnSliderValueChanged",
+    "m_PathID": 115,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

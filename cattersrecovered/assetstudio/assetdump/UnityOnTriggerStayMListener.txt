@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnTriggerStayMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnTriggerStayMListener",
+    "m_PathID": 928,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

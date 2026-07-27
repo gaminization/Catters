@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TriggerEventUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "TriggerEventUnit",
+    "m_PathID": 930,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

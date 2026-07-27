@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnexpectedLogMessageException",
+    "m_Namespace": "UnityEngine.TestTools.TestRunner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "UnexpectedLogMessageException",
+    "m_PathID": 395,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}

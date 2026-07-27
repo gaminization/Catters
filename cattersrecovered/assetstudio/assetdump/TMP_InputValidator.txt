@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_InputValidator",
+    "m_Namespace": "TMPro",
+    "m_AssemblyName": "Unity.TextMeshPro",
+    "m_Name": "TMP_InputValidator",
+    "m_PathID": 537,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

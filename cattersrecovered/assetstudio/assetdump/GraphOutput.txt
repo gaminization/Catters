@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GraphOutput",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GraphOutput",
+    "m_PathID": 130,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

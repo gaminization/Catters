@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ConstraintExtensions",
+    "m_Namespace": "UnityEngine.TestTools.Constraints",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "ConstraintsExtensions",
+    "m_PathID": 453,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

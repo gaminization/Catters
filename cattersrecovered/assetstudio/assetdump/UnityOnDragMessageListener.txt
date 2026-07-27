@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnDragMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnDragMessageListener",
+    "m_PathID": 911,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

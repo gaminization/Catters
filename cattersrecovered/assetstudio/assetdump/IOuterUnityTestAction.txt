@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IOuterUnityTestAction",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IOuterUnityTestAction",
+    "m_PathID": 793,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

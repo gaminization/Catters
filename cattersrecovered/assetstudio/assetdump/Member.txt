@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Member",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "Member",
+    "m_PathID": 428,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

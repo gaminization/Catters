@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TimeUtility",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TimeUtility",
+    "m_PathID": 1032,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

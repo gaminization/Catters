@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityTestAssemblyRunner",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "UnityTestAssemblyRunner",
+    "m_PathID": 601,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}

@@ -1,0 +1,60 @@
+{
+    "m_LocalRotation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+    },
+    "m_LocalPosition": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+    },
+    "m_LocalScale": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+    },
+    "m_Children": [
+        {
+            "Name": "RectTransform_#2692",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1570
+        },
+        {
+            "Name": "RectTransform_#2696",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1574
+        },
+        {
+            "Name": "RectTransform_#2693",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1571
+        },
+        {
+            "Name": "RectTransform_#2695",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1573
+        }
+    ],
+    "m_Father": {
+        "Name": "",
+        "IsNull": true,
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_GameObject": {
+        "Name": "Canvas",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 40
+    },
+    "m_PathID": 1572,
+    "type": "RectTransform",
+    "classID": 224,
+    "byteSize": 156
+}

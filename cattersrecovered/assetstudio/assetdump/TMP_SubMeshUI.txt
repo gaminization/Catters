@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_SubMeshUI",
+    "m_Namespace": "TMPro",
+    "m_AssemblyName": "Unity.TextMeshPro",
+    "m_Name": "TMP_SubMeshUI",
+    "m_PathID": 26,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

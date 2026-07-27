@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PointerEventData",
+    "m_Namespace": "UnityEngine.EventSystems",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "PointerEventData",
+    "m_PathID": 517,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

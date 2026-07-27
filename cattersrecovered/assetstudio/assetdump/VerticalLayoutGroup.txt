@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "VerticalLayoutGroup",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "VerticalLayoutGroup",
+    "m_PathID": 391,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

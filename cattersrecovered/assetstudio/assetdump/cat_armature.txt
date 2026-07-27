@@ -1,0 +1,62 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1609",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 487
+        }
+    ],
+    "m_Name": "cat_armature",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": -0.7071068,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.7071067
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "m_LocalScale": {
+            "X": 100.0,
+            "Y": 100.0,
+            "Z": 100.0
+        },
+        "m_Children": [
+            {
+                "Name": "Transform_#1607",
+                "IsNull": false,
+                "m_FileID": 0,
+                "m_PathID": 485
+            }
+        ],
+        "m_Father": {
+            "Name": "Transform_#1590",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 468
+        },
+        "m_GameObject": {
+            "Name": "cat_armature",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 292
+        },
+        "m_PathID": 487,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 80
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 292,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 39
+}

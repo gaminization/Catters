@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IdentifierExpression",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "IdentifierExpression",
+    "m_PathID": 871,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

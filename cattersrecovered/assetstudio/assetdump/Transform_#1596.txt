@@ -1,0 +1,42 @@
+{
+    "m_LocalRotation": {
+        "X": -0.000004763004,
+        "Y": 0.7128034,
+        "Z": 0.701364,
+        "W": 0.000004840692
+    },
+    "m_LocalPosition": {
+        "X": -0.0000000000000005156986,
+        "Y": 0.0001636529,
+        "Z": -0.00000000001819055
+    },
+    "m_LocalScale": {
+        "X": 1.0,
+        "Y": 0.9999994,
+        "Z": 0.9999998
+    },
+    "m_Children": [
+        {
+            "Name": "Transform_#1772",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 650
+        }
+    ],
+    "m_Father": {
+        "Name": "Transform_#1613",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 491
+    },
+    "m_GameObject": {
+        "Name": "MCH_back.004",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 324
+    },
+    "m_PathID": 474,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 80
+}

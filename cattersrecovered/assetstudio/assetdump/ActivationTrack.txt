@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ActivationTrack",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "ActivationTrack",
+    "m_PathID": 152,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "FakeSerializationCloner",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "FakeSerializationCloner",
+    "m_PathID": 891,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

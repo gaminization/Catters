@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BaseEventData",
+    "m_Namespace": "UnityEngine.EventSystems",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "BaseEventData",
+    "m_PathID": 644,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

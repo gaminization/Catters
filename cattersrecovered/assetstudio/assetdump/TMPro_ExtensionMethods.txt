@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMPro_ExtensionMethods",
+    "m_Namespace": "TMPro",
+    "m_AssemblyName": "Unity.TextMeshPro",
+    "m_Name": "TMPro_ExtensionMethods",
+    "m_PathID": 529,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

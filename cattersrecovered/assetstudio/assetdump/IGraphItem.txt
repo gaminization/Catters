@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IGraphItem",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IGraphItem",
+    "m_PathID": 335,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IUnitInputPortDefinition",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "IUnitInputPortDefinition",
+    "m_PathID": 563,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

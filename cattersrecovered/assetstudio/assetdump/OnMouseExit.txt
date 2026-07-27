@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnMouseExit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnMouseExit",
+    "m_PathID": 703,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

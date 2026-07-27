@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TriggerStateTransition",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "TriggerStateTransition",
+    "m_PathID": 652,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

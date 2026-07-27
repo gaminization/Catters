@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ReflectedCloner",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ReflectedCloner",
+    "m_PathID": 641,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

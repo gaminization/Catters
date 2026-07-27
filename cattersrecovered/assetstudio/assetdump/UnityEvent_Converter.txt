@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityEvent_Converter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer.Internal.Converters",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityEvent_Converter",
+    "m_PathID": 783,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 160
+}

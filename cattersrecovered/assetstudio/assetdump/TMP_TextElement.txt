@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_TextElement",
+    "m_Namespace": "TMPro",
+    "m_AssemblyName": "Unity.TextMeshPro",
+    "m_Name": "TMP_TextElement",
+    "m_PathID": 364,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

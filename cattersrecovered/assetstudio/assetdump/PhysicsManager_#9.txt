@@ -1,0 +1,6 @@
+{
+    "m_PathID": 10,
+    "type": "PhysicsManager",
+    "classID": 55,
+    "byteSize": 272
+}

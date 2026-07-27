@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnApplicationResume",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnApplicationResume",
+    "m_PathID": 704,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

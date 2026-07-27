@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ExclusiveOrHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ExclusiveOrHandler",
+    "m_PathID": 914,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

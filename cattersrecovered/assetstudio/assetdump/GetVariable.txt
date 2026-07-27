@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GetVariable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GetVariable",
+    "m_PathID": 969,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

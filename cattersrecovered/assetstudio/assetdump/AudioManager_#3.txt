@@ -1,0 +1,6 @@
+{
+    "m_PathID": 4,
+    "type": "AudioManager",
+    "classID": 11,
+    "byteSize": 48
+}

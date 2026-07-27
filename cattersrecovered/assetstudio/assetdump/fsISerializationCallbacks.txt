@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsISerializationCallbacks",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsISerializationCallbacks",
+    "m_PathID": 724,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}

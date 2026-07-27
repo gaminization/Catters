@@ -1,0 +1,120 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1736",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 614
+        },
+        {
+            "Name": "MeshFilter_#2268",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1146
+        },
+        {
+            "Name": "MeshRenderer_#1942",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 820
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1350
+        }
+    ],
+    "m_Name": "Obstacle (21)",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": -0.7071068,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.7071067
+        },
+        "m_LocalPosition": {
+            "X": 0.6148629,
+            "Y": 0.0,
+            "Z": -24.31036
+        },
+        "m_LocalScale": {
+            "X": 12.87942,
+            "Y": 12.87942,
+            "Z": 12.87942
+        },
+        "m_Children": [],
+        "m_Father": {
+            "Name": "Transform_#1474",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 352
+        },
+        "m_GameObject": {
+            "Name": "Obstacle (21)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 188
+        },
+        "m_PathID": 614,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 68
+    },
+    "m_MeshRenderer": {
+        "m_Materials": [
+            {
+                "Name": "pine brown",
+                "IsNull": false,
+                "m_FileID": 2,
+                "m_PathID": 2
+            },
+            {
+                "Name": "pine tree green",
+                "IsNull": false,
+                "m_FileID": 2,
+                "m_PathID": 3
+            }
+        ],
+        "m_StaticBatchInfo": {
+            "firstSubMesh": 0,
+            "subMeshCount": 0
+        },
+        "m_SubsetIndices": null,
+        "m_GameObject": {
+            "Name": "Obstacle (21)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 188
+        },
+        "m_PathID": 820,
+        "type": "MeshRenderer",
+        "classID": 23,
+        "byteSize": 168
+    },
+    "m_MeshFilter": {
+        "m_Mesh": {
+            "Name": "Plane.001",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 19
+        },
+        "m_GameObject": {
+            "Name": "Obstacle (21)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 188
+        },
+        "m_PathID": 1146,
+        "type": "MeshFilter",
+        "classID": 33,
+        "byteSize": 24
+    },
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 188,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 79
+}

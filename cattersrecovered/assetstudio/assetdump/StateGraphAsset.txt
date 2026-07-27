@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "StateGraphAsset",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "StateGraphAsset",
+    "m_PathID": 360,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

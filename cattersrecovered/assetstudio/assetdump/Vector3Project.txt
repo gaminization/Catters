@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3Project",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3Project",
+    "m_PathID": 371,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

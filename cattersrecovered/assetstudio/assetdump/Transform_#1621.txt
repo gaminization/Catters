@@ -1,0 +1,42 @@
+{
+    "m_LocalRotation": {
+        "X": -0.03531332,
+        "Y": 0.9004502,
+        "Z": -0.4274513,
+        "W": -0.07230365
+    },
+    "m_LocalPosition": {
+        "X": -0.00000000001164153,
+        "Y": 0.0003323087,
+        "Z": 0.000000000007566996
+    },
+    "m_LocalScale": {
+        "X": 0.9999994,
+        "Y": 0.9999996,
+        "Z": 1.000001
+    },
+    "m_Children": [
+        {
+            "Name": "Transform_#1603",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 481
+        }
+    ],
+    "m_Father": {
+        "Name": "Transform_#1583",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 461
+    },
+    "m_GameObject": {
+        "Name": "DEF_lowerArm.R",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 305
+    },
+    "m_PathID": 499,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 80
+}

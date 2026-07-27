@@ -1,0 +1,31 @@
+{
+    "m_Width": 512,
+    "m_Height": 256,
+    "m_CompleteImageSize": 59168,
+    "m_TextureFormat": 50,
+    "m_MipMap": false,
+    "m_MipCount": 1,
+    "m_TextureSettings": {
+        "m_FilterMode": 1,
+        "m_Aniso": 16,
+        "m_MipBias": 0.0,
+        "m_WrapMode": 0
+    },
+    "m_ImageCount": 1,
+    "m_PlatformBlob": "",
+    "image data": {
+        "Size": 59168,
+        "Offset": 4096
+    },
+    "m_StreamData": {
+        "offset": 4096,
+        "size": 59168,
+        "path": "resources.assets.resS"
+    },
+    "m_DataStreamData": null,
+    "m_Name": "Sunny Days - Seamless",
+    "m_PathID": 30,
+    "type": "Texture2D",
+    "classID": 28,
+    "byteSize": 164
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SwitchOnInteger",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SwitchOnInteger",
+    "m_PathID": 976,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

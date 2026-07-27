@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RemoteTestData",
+    "m_Namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "RemoteTestData",
+    "m_PathID": 749,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

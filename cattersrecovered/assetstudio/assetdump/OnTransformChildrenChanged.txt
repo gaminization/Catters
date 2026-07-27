@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnTransformChildrenChanged",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnTransformChildrenChanged",
+    "m_PathID": 682,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

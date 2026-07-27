@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Benchmark03",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "Benchmark03",
+    "m_PathID": 715,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ScriptingRuntimeProxy",
+    "m_Namespace": "UnityEngine.TestTools.Utils",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "ScriptingRuntimeProxy",
+    "m_PathID": 1018,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

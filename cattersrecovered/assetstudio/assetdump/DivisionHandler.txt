@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "DivisionHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "DivisionHandler",
+    "m_PathID": 726,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

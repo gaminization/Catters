@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TrackColorAttribute",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TrackColorAttribute",
+    "m_PathID": 471,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

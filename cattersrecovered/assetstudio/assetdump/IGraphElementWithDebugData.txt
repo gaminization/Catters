@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IGraphElementWithDebugData",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IGraphElementWithDebugData",
+    "m_PathID": 642,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

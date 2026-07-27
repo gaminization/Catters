@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ProfiledSegmentCollection",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ProfiledSegmentCollection",
+    "m_PathID": 530,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

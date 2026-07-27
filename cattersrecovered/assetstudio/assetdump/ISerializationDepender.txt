@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ISerializationDepender",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ISerializationDepender",
+    "m_PathID": 729,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

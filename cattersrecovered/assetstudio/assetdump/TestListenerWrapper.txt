@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TestListenerWrapper",
+    "m_Namespace": "UnityEngine.TestTools.TestRunner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "TestListenerWrapper",
+    "m_PathID": 507,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

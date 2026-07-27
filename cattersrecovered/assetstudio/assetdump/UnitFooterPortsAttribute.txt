@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnitFooterPortsAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "UnitFooterPortsAttribute",
+    "m_PathID": 343,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

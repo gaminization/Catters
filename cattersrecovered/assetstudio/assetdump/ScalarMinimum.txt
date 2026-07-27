@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ScalarMinimum",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ScalarMinimum",
+    "m_PathID": 656,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SpriteState",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "SpriteState",
+    "m_PathID": 163,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

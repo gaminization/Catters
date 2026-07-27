@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PanelEventHandler",
+    "m_Namespace": "UnityEngine.UIElements",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "PanelEventHandler",
+    "m_PathID": 610,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 116
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "DeprecatedVector4Add",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "DeprecatedVector4Add",
+    "m_PathID": 948,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

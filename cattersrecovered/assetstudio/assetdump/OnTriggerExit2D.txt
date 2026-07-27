@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnTriggerExit2D",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnTriggerExit2D",
+    "m_PathID": 885,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InvokeMember",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "InvokeMember",
+    "m_PathID": 609,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

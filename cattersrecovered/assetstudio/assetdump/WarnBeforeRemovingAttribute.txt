@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "WarnBeforeRemovingAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "WarnBeforeRemovingAttribute",
+    "m_PathID": 244,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

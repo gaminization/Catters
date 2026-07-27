@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ValueOutput",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ValueOutput",
+    "m_PathID": 807,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

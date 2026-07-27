@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "INesterState",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "INesterState",
+    "m_PathID": 174,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

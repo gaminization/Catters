@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TimelineHelpURLAttribute",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TimelineHelpURLAttribute",
+    "m_PathID": 823,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

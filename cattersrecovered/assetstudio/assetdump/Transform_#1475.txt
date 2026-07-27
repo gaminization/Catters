@@ -1,0 +1,35 @@
+{
+    "m_LocalRotation": {
+        "X": 0.0,
+        "Y": 0.7071068,
+        "Z": 0.0,
+        "W": 0.7071068
+    },
+    "m_LocalPosition": {
+        "X": -4.0,
+        "Y": 0.0,
+        "Z": -7.036314
+    },
+    "m_LocalScale": {
+        "X": 0.5,
+        "Y": 0.75,
+        "Z": 1.0
+    },
+    "m_Children": [],
+    "m_Father": {
+        "Name": "Transform_#1530",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 408
+    },
+    "m_GameObject": {
+        "Name": "fence_double (28)",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 25
+    },
+    "m_PathID": 353,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 68
+}

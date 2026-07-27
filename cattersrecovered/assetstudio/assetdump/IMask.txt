@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IMask",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "IMask",
+    "m_PathID": 875,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

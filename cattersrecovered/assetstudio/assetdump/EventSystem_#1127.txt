@@ -1,0 +1,67 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1456",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 334
+        },
+        {
+            "Name": "EventSystem",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1576
+        },
+        {
+            "Name": "StandaloneInputModule",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1578
+        }
+    ],
+    "m_Name": "EventSystem",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        },
+        "m_Children": [],
+        "m_Father": {
+            "Name": "",
+            "IsNull": true,
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_GameObject": {
+            "Name": "EventSystem",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 5
+        },
+        "m_PathID": 334,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 68
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 5,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 63
+}

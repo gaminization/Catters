@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PrebuildSetupAttribute",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "PrebuildSceneSetupAttribute",
+    "m_PathID": 895,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

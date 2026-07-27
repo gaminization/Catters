@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MergeLists",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "MergeLists",
+    "m_PathID": 431,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

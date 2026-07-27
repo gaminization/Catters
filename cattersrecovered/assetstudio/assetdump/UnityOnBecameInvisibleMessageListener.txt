@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnBecameInvisibleMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnBecameInvisibleMessageListener",
+    "m_PathID": 124,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 168
+}

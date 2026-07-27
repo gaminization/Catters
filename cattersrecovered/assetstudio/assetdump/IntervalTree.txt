@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IInterval",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "IntervalTree",
+    "m_PathID": 634,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

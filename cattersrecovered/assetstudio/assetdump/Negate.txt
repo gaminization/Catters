@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Negate",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Negate",
+    "m_PathID": 264,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

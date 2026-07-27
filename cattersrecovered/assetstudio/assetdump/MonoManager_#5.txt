@@ -1,0 +1,6 @@
+{
+    "m_PathID": 6,
+    "type": "MonoManager",
+    "classID": 116,
+    "byteSize": 50668
+}

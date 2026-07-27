@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MarkerList",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "MarkerList",
+    "m_PathID": 290,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "HashUtility",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "HashUtility",
+    "m_PathID": 889,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}
