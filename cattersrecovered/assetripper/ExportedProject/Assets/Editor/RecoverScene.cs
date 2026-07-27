@@ -5162,13 +5162,10 @@ public static class RecoverScene
             mb_9_FollowPlayer.player = createdObjects.ContainsKey(140) ? createdObjects[140].transform : null;
         } else { missingComponents++; }
         if (mb_278_PlayerMovement != null) {
-            mb_278_PlayerMovement.ButtonSideForce = 50.0f;
-            mb_278_PlayerMovement.ForwardForce = 50.0f;
-            mb_278_PlayerMovement.KeySideForce = 50.0f;
-            mb_278_PlayerMovement.left = createdObjects.ContainsKey(121) ? createdObjects[121].GetComponent<MyButton>() : null;
-            mb_278_PlayerMovement.rb = createdObjects.ContainsKey(140) ? createdObjects[140].GetComponent<Rigidbody>() : null;
-            mb_278_PlayerMovement.right = createdObjects.ContainsKey(30) ? createdObjects[30].GetComponent<MyButton>() : null;
-        } else { missingComponents++; }
+            ((PlayerMovement)(object)mb_278_PlayerMovement).ForwardForce = 0.25f;
+            ((PlayerMovement)(object)mb_278_PlayerMovement).KeySideForce = 1.0f;
+            ((PlayerMovement)(object)mb_278_PlayerMovement).ButtonSideForce = 1.0f;
+        }
         if (mb_278_PlayerCollision != null) {
             mb_278_PlayerCollision.move = createdObjects.ContainsKey(140) ? createdObjects[140].GetComponent<PlayerMovement>() : null;
             mb_278_PlayerCollision.rb = createdObjects.ContainsKey(140) ? createdObjects[140].GetComponent<Rigidbody>() : null;

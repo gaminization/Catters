@@ -6,9 +6,9 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 	public Rigidbody rb;
-	public float ForwardForce = 50f;
-	public float KeySideForce = 50f;
-	public float ButtonSideForce = 50f;
+	public float ForwardForce = 0.25f;
+	public float KeySideForce = 1f;
+	public float ButtonSideForce = 1f;
 	public MyButton left;
 	public MyButton right;
 

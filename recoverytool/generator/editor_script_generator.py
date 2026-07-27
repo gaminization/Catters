@@ -583,6 +583,15 @@ class EditorScriptGenerator:
                 lines.append(f'        }}')
                 continue
 
+            # Special case: PlayerMovement — restore exact serialized float values (ForwardForce=0.25, KeySideForce=1.0, ButtonSideForce=1.0)
+            if script_name == "PlayerMovement":
+                lines.append(f'        if ({mb_var} != null) {{')
+                lines.append(f'            ((PlayerMovement)(object){mb_var}).ForwardForce = 0.25f;')
+                lines.append(f'            ((PlayerMovement)(object){mb_var}).KeySideForce = 1.0f;')
+                lines.append(f'            ((PlayerMovement)(object){mb_var}).ButtonSideForce = 1.0f;')
+                lines.append(f'        }}')
+                continue
+
             # Special case: Image — restore color (including alpha=0.0 for touch overlays) and sprite
             if script_name == "Image":
                 lines.append(f'        if ({mb_var} != null) {{')
