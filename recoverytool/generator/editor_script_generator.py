@@ -411,6 +411,7 @@ class EditorScriptGenerator:
                     lines.append(f'        {rb_var}.isKinematic = {"true" if is_kin else "false"};')
                     lines.append(f'        {rb_var}.interpolation = (RigidbodyInterpolation){int(interp)};')
                     lines.append(f'        {rb_var}.collisionDetectionMode = (CollisionDetectionMode){int(col_det)};')
+                    lines.append(f'        {rb_var}.constraints = RigidbodyConstraints.None;')
                     lines.append(f'        {rb_var}.ResetCenterOfMass();')
                     lines.append(f'        {rb_var}.ResetInertiaTensor();')
                     if constraints:

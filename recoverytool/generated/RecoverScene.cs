@@ -5128,6 +5128,7 @@ public static class RecoverScene
         rb_278.isKinematic = false;
         rb_278.interpolation = (RigidbodyInterpolation)0;
         rb_278.collisionDetectionMode = (CollisionDetectionMode)2;
+        rb_278.constraints = RigidbodyConstraints.None;
         rb_278.ResetCenterOfMass();
         rb_278.ResetInertiaTensor();
         dynamic mb_278_PlayerMovement = AddComponentSafe(go_278, "PlayerMovement");

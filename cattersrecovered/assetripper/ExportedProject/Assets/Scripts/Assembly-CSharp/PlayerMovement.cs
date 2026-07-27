@@ -22,13 +22,15 @@ public class PlayerMovement : MonoBehaviour
 	private void FixedUpdate()
 	{
 		if (rb == null) rb = GetComponent<Rigidbody>();
+		if (rb != null) rb.WakeUp();
 
 		frameCount++;
 		Vector3 velBefore = rb != null ? rb.velocity : Vector3.zero;
 
 		if (rb != null)
 		{
-			rb.AddForce(transform.forward * ForwardForce * Time.deltaTime, ForceMode.VelocityChange);
+			// TEST: Set forward velocity directly to test physics simulation
+			rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y, 2.0f);
 		}
 
 		if (Input.GetKey("d"))
