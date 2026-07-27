@@ -196,7 +196,7 @@ class EditorScriptGenerator:
                 if pos:
                     px = pos.get("x", pos.get("X", 0.0))
                     py = pos.get("y", pos.get("Y", 0.0))
-                    pz = -38.0 if node["name"].lower() == "player" else pos.get("z", pos.get("Z", 0.0))
+                    pz = pos.get("z", pos.get("Z", 0.0))
                     lines.append(
                         f'        {go_var}.transform.localPosition = new Vector3({px}f, {py}f, {pz}f);'
                     )
