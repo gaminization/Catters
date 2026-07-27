@@ -7,6 +7,8 @@
 [Bb]uilds/
 [Lg]ogs/
 [Mm]emoryCaptures/
+Applications/
+recoverytool/logs/
 *.csproj
 *.unityproj
 *.sln
