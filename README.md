@@ -2,10 +2,6 @@
 
 **Catters** is a Unity 3D game project. The repository is structured as a standard Unity project at the root level, making it easy to open, edit, and replicate directly in Unity.
 
-<p align="center">
-  <img src="demo.gif" alt="Catters Gameplay Demonstration" width="380" />
-</p>
-
 ---
 
 ## 🎮 Download & Play
