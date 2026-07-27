@@ -1,9 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-	public bool gameended;
+	public bool gameended = false;
 
 	public void EndGame()
 	{
@@ -11,7 +13,7 @@ public class GameManager : MonoBehaviour
 		{
 			gameended = true;
 			Debug.Log("game over");
-			Invoke("Restart", 5f);
+			Invoke("Restart", 2f);
 		}
 	}
 
