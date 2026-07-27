@@ -11,6 +11,16 @@
 
 ---
 
+## 📸 Gameplay Screenshot
+
+<p align="center">
+  <img src="media/screenshot.jpg" alt="Catters gameplay – cat running through a snowy 3D environment" width="320">
+</p>
+
+*Original APK running on Android – a cat races through a snowy corridor avoiding red obstacles.*
+
+---
+
 ## 🚀 Opening in Unity
 
 To open and work on the project in Unity Editor:
