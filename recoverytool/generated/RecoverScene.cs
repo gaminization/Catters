@@ -1844,7 +1844,7 @@ public static class RecoverScene
         go_277.transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
         GameObject go_278 = new GameObject("player");
         createdObjects[140] = go_278;
-        go_278.transform.localPosition = new Vector3(0.0f, 0.0f, 1.0f);
+        go_278.transform.localPosition = new Vector3(0.0f, 0.0f, -38.0f);
         go_278.transform.localRotation = new Quaternion(0.0f, 0.0f, 0.0f, 1.0f);
         go_278.transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
         GameObject go_279 = new GameObject("cat");

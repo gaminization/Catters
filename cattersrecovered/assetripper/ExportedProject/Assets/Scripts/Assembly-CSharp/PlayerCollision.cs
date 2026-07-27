@@ -7,7 +7,11 @@ public class PlayerCollision : MonoBehaviour
 
 	private void OnCollisionEnter(Collision collision)
 	{
-		if (collision.collider.tag == "Obstacle")
+		string hitName = collision.collider.name;
+		string hitTag = collision.collider.tag;
+		Debug.Log($"[PlayerCollision] Hit on Frame {Time.frameCount}: name={hitName} tag={hitTag} point={collision.contacts[0].point}");
+
+		if (hitTag == "Obstacle")
 		{
 			if (move != null) move.enabled = false;
 			Object.FindObjectOfType<GameManager>().EndGame();
