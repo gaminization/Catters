@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GenericSubtract",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GenericSubtract",
+    "m_PathID": 42,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

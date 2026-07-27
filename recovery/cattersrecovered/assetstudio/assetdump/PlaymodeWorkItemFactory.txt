@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PlaymodeWorkItemFactory",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "PlaymodeWorkItemFactory",
+    "m_PathID": 555,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}

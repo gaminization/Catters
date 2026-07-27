@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "VisualScriptingHelpURLAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "VisualScriptingHelpURLAttribute",
+    "m_PathID": 826,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Dropdown",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Dropdown",
+    "m_PathID": 65,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

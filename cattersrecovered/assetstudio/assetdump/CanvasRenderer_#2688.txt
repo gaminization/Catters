@@ -1,6 +1,0 @@
-{
-    "m_PathID": 1566,
-    "type": "CanvasRenderer",
-    "classID": 222,
-    "byteSize": 13
-}

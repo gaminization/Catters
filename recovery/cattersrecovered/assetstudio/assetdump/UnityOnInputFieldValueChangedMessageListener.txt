@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnInputFieldValueChangedMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnInputFieldValueChangedMessageListener",
+    "m_PathID": 99,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 176
+}

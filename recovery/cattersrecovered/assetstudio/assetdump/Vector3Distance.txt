@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3Distance",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3Distance",
+    "m_PathID": 903,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

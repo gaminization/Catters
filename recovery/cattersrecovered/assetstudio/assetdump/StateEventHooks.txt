@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "StateEventHooks",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "StateEventHooks",
+    "m_PathID": 1070,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

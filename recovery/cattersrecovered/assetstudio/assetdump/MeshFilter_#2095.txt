@@ -1,0 +1,18 @@
+{
+    "m_Mesh": {
+        "Name": "fence_double",
+        "IsNull": false,
+        "m_FileID": 2,
+        "m_PathID": 17
+    },
+    "m_GameObject": {
+        "Name": "fence_double (38)",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 63
+    },
+    "m_PathID": 973,
+    "type": "MeshFilter",
+    "classID": 33,
+    "byteSize": 24
+}

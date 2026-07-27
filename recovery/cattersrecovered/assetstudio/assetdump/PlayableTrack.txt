@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PlayableTrack",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "PlayableTrack",
+    "m_PathID": 575,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

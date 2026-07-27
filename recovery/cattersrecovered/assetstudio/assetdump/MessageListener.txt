@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "MessageListener",
+    "m_PathID": 808,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

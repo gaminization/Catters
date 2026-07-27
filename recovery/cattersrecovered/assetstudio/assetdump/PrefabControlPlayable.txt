@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PrefabControlPlayable",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "PrefabControlPlayable",
+    "m_PathID": 292,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

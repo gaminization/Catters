@@ -1,6 +1,0 @@
-{
-    "m_PathID": 8,
-    "type": "TimeManager",
-    "classID": 5,
-    "byteSize": 16
-}

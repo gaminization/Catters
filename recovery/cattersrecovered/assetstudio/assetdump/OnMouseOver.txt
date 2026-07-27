@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnMouseOver",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnMouseOver",
+    "m_PathID": 931,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

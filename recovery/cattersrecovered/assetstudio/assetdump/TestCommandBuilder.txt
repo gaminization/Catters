@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TestCommandBuilder",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "TestCommandBuilder",
+    "m_PathID": 1021,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

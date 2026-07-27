@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_TextEventCheck",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "TMP_TextEventCheck",
+    "m_PathID": 919,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsOption",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer.Internal",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsOption",
+    "m_PathID": 759,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

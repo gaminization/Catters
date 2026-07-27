@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnPointerDownMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnPointerDownMessageListener",
+    "m_PathID": 432,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 160
+}

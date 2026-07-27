@@ -1,0 +1,62 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1598",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 476
+        }
+    ],
+    "m_Name": "CTRL_leg.L",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 1.0,
+            "W": -0.00000000000000006123234
+        },
+        "m_LocalPosition": {
+            "X": 0.0,
+            "Y": 0.000006719538,
+            "Z": 0.0001049678
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        },
+        "m_Children": [
+            {
+                "Name": "Transform_#1586",
+                "IsNull": false,
+                "m_FileID": 0,
+                "m_PathID": 464
+            }
+        ],
+        "m_Father": {
+            "Name": "Transform_#1582",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 460
+        },
+        "m_GameObject": {
+            "Name": "CTRL_leg.L",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 327
+        },
+        "m_PathID": 476,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 80
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 327,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 39
+}

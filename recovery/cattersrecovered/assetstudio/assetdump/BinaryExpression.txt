@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BinaryExpression",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "BinaryExpression",
+    "m_PathID": 733,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

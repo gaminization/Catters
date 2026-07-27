@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Slider",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Slider",
+    "m_PathID": 450,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

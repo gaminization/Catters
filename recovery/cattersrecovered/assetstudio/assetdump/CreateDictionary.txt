@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "CreateDictionary",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "CreateDictionary",
+    "m_PathID": 788,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

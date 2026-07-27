@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IEditModeTestYieldInstruction",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IEditModeTestYieldInstruction",
+    "m_PathID": 606,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnitConnectionDebugData",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "UnitConnectionDebugData",
+    "m_PathID": 396,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

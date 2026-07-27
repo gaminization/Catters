@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnKeyboardInput",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnKeyboardInput",
+    "m_PathID": 863,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

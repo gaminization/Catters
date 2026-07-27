@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BoltAnimationEvent",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "BoltAnimationEvent",
+    "m_PathID": 848,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

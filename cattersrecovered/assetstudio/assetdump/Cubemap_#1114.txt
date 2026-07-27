@@ -1,6 +1,0 @@
-{
-    "m_PathID": 25,
-    "type": "Cubemap",
-    "classID": 89,
-    "byteSize": 240
-}

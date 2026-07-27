@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ScalarSum",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ScalarSum",
+    "m_PathID": 45,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

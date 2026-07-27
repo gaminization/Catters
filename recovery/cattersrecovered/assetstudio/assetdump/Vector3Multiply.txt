@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3Multiply",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3Multiply",
+    "m_PathID": 366,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

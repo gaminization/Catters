@@ -1,8 +1,0 @@
-{
-    "m_Script": "77u/KV3vvZ3jgJXjgInjgIvjgI3jgI/jgJHjgJnjgJfjgJ/igJnigJ3vvaDCu+ODveODvuODvOOCoeOCo+OCpeOCp+OCqeODg+ODo+ODpeODp+ODruODteODtuOBgeOBg+OBheOBh+OBieOBo+OCg+OCheOCh+OCjuOCleOCluOHsOOHseOHsuOHs+OHtOOHteOHtuOHt+OHuOOHueOHuuOHu+OHvOOHveOHvuOHv+OAheOAu+KAkOOCoOKAk+OAnD8h4oC84oGH4oGI4oGJ44O744CBJSwuOjvjgILvvIHvvJ/vvL3vvInvvJrvvJvvvJ19wqLCsCLigKDigKHihIPjgIbvvIXvvIzvvI4=",
-    "m_Name": "LineBreaking Following Characters",
-    "m_PathID": 56,
-    "type": "TextAsset",
-    "classID": 49,
-    "byteSize": 316
-}

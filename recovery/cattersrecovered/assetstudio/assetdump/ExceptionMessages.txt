@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ExceptionMessages",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ExceptionMessages",
+    "m_PathID": 354,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

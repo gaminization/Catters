@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GetScriptGraphs",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GetScriptGraphs",
+    "m_PathID": 102,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

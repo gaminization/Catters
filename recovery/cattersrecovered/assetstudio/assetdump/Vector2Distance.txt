@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector2Distance",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector2Distance",
+    "m_PathID": 531,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

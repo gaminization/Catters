@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3Subtract",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3Subtract",
+    "m_PathID": 319,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

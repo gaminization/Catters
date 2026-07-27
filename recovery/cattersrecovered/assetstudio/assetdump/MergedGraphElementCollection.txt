@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MergedGraphElementCollection",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "MergedGraphElementCollection",
+    "m_PathID": 84,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

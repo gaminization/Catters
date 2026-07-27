@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ITestSuiteModifier",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "ITestSuiteModifier",
+    "m_PathID": 331,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

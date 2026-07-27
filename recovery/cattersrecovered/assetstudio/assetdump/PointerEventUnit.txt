@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PointerEventUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "PointerEventUnit",
+    "m_PathID": 255,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "levels": null,
+    "scenes": [
+        "Assets/Customizable Skybox/Scenes/DemoScene.unity"
+    ],
+    "m_PathID": 11,
+    "type": "BuildSettings",
+    "classID": 141,
+    "byteSize": 116
+}

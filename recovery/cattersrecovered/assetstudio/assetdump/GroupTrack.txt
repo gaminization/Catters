@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GroupTrack",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "GroupTrack",
+    "m_PathID": 890,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

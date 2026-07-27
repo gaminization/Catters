@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_Dropdown",
+    "m_Namespace": "TMPro",
+    "m_AssemblyName": "Unity.TextMeshPro",
+    "m_Name": "TMP_Dropdown",
+    "m_PathID": 544,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 88
+}

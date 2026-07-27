@@ -1,6 +1,0 @@
-{
-    "m_PathID": 1400,
-    "type": "BoxCollider",
-    "classID": 65,
-    "byteSize": 68
-}

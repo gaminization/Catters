@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3Normalize",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3Normalize",
+    "m_PathID": 458,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SetPropertyUtility",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "SetPropertyUtility",
+    "m_PathID": 792,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

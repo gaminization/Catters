@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PlayerMovement",
+    "m_Namespace": "",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "PlayerMovement",
+    "m_PathID": 805,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

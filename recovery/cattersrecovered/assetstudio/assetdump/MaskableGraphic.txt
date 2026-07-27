@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MaskableGraphic",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "MaskableGraphic",
+    "m_PathID": 667,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

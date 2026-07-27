@@ -1,6 +1,0 @@
-{
-    "m_PathID": 1575,
-    "type": "LightingSettings",
-    "classID": 850595691,
-    "byteSize": 48
-}

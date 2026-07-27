@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ContentSizeFitter",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "ContentSizeFitter",
+    "m_PathID": 217,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

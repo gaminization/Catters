@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ApplicationVariables",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ApplicationVariables",
+    "m_PathID": 334,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

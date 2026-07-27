@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnTransformChildrenChangedMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnTransformChildrenChangedMListener",
+    "m_PathID": 637,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 176
+}

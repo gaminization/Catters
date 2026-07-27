@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector4EqualityComparer",
+    "m_Namespace": "UnityEngine.TestTools.Utils",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "Vector4EqualityComparer",
+    "m_PathID": 221,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

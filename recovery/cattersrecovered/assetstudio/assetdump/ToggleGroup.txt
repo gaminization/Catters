@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ToggleGroup",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "ToggleGroup",
+    "m_PathID": 207,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

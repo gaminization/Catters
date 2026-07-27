@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TimelineClipExtensions",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TimelineClipExtensions",
+    "m_PathID": 538,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PlayerConnectionMessageIds",
+    "m_Namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "PlayerConnectionMessageIds",
+    "m_PathID": 286,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

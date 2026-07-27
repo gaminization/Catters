@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ScalarMaximum",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ScalarMaximum",
+    "m_PathID": 229,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

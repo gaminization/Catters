@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SwitchOnString",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SwitchOnString",
+    "m_PathID": 307,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

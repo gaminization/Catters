@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MemberInfoComparer",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "MemberInfoComparer",
+    "m_PathID": 419,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

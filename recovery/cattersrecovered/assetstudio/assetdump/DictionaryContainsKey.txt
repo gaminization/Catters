@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "DictionaryContainsKey",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "DictionaryContainsKey",
+    "m_PathID": 359,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

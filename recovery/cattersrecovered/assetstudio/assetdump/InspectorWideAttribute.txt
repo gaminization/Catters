@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InspectorWideAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "InspectorWideAttribute",
+    "m_PathID": 503,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

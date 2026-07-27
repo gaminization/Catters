@@ -1,0 +1,6 @@
+{
+    "m_PathID": 1564,
+    "type": "NavMeshSettings",
+    "classID": 196,
+    "byteSize": 12
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IPropertyPreview",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "IPropertyPreview",
+    "m_PathID": 771,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

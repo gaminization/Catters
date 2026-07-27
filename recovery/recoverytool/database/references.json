@@ -1,0 +1,720 @@
+{
+  "broken_references": [
+    {
+      "field_name": "ref_4_10101",
+      "source_path_id": 5,
+      "source_type": "ScriptMapper",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_5_10755",
+      "source_path_id": 5,
+      "source_type": "ScriptMapper",
+      "target_path_id": 10755
+    },
+    {
+      "field_name": "ref_0_11993",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 11993
+    },
+    {
+      "field_name": "ref_1_11995",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 11995
+    },
+    {
+      "field_name": "ref_2_11998",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 11998
+    },
+    {
+      "field_name": "ref_3_12001",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 12001
+    },
+    {
+      "field_name": "ref_4_13312",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 13312
+    },
+    {
+      "field_name": "ref_5_13313",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 13313
+    },
+    {
+      "field_name": "ref_6_19000",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19000
+    },
+    {
+      "field_name": "ref_7_19001",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19001
+    },
+    {
+      "field_name": "ref_8_19002",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19002
+    },
+    {
+      "field_name": "ref_9_19003",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19003
+    },
+    {
+      "field_name": "ref_10_19004",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19004
+    },
+    {
+      "field_name": "ref_11_19100",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19100
+    },
+    {
+      "field_name": "ref_12_19101",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19101
+    },
+    {
+      "field_name": "ref_13_19102",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19102
+    },
+    {
+      "field_name": "ref_14_19103",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19103
+    },
+    {
+      "field_name": "ref_15_19202",
+      "source_path_id": 6,
+      "source_type": "MonoManager",
+      "target_path_id": 19202
+    },
+    {
+      "field_name": "ref_80_10101",
+      "source_path_id": 13,
+      "source_type": "ResourceManager",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_102_10101",
+      "source_path_id": 13,
+      "source_type": "ResourceManager",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_108_10101",
+      "source_path_id": 13,
+      "source_type": "ResourceManager",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_140_10101",
+      "source_path_id": 13,
+      "source_type": "ResourceManager",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_202_10101",
+      "source_path_id": 13,
+      "source_type": "ResourceManager",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_211_10101",
+      "source_path_id": 13,
+      "source_type": "ResourceManager",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_0_11993",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 11993
+    },
+    {
+      "field_name": "ref_1_11995",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 11995
+    },
+    {
+      "field_name": "ref_2_11998",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 11998
+    },
+    {
+      "field_name": "ref_3_12001",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 12001
+    },
+    {
+      "field_name": "ref_4_13312",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 13312
+    },
+    {
+      "field_name": "ref_5_13313",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 13313
+    },
+    {
+      "field_name": "ref_6_19000",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19000
+    },
+    {
+      "field_name": "ref_7_19001",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19001
+    },
+    {
+      "field_name": "ref_8_19002",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19002
+    },
+    {
+      "field_name": "ref_9_19003",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19003
+    },
+    {
+      "field_name": "ref_10_19004",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19004
+    },
+    {
+      "field_name": "ref_11_19100",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19100
+    },
+    {
+      "field_name": "ref_12_19101",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19101
+    },
+    {
+      "field_name": "ref_13_19102",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19102
+    },
+    {
+      "field_name": "ref_14_19103",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19103
+    },
+    {
+      "field_name": "ref_15_19202",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 19202
+    },
+    {
+      "field_name": "ref_3_10001",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 10001
+    },
+    {
+      "field_name": "ref_4_10101",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_5_10202",
+      "source_path_id": 1,
+      "source_type": "PreloadData",
+      "target_path_id": 10202
+    },
+    {
+      "field_name": "ref_0_10101",
+      "source_path_id": 9,
+      "source_type": "Material",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_0_2767069191",
+      "source_path_id": 28,
+      "source_type": "AnimatorController",
+      "target_path_id": 2767069191
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 33,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 33,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_10202",
+      "source_path_id": 921,
+      "source_type": "MeshFilter",
+      "target_path_id": 10202
+    },
+    {
+      "field_name": "m_Mesh",
+      "source_path_id": 921,
+      "source_type": "MeshFilter",
+      "target_path_id": 10202
+    },
+    {
+      "field_name": "ref_1_10202",
+      "source_path_id": 1024,
+      "source_type": "MeshFilter",
+      "target_path_id": 10202
+    },
+    {
+      "field_name": "m_Mesh",
+      "source_path_id": 1024,
+      "source_type": "MeshFilter",
+      "target_path_id": 10202
+    },
+    {
+      "field_name": "ref_2_10001",
+      "source_path_id": 1560,
+      "source_type": "RenderSettings",
+      "target_path_id": 10001
+    },
+    {
+      "field_name": "ref_1_8858370048",
+      "source_path_id": 1576,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8858370048
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1576,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8858370048
+    },
+    {
+      "field_name": "ref_1_17146314752",
+      "source_path_id": 1577,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 17146314752
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1577,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 17146314752
+    },
+    {
+      "field_name": "ref_1_5737807872",
+      "source_path_id": 1578,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 5737807872
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1578,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 5737807872
+    },
+    {
+      "field_name": "ref_1_5637144576",
+      "source_path_id": 1579,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 5637144576
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1579,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 5637144576
+    },
+    {
+      "field_name": "ref_1_17850957824",
+      "source_path_id": 1580,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 17850957824
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1580,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 17850957824
+    },
+    {
+      "field_name": "ref_1_13757317120",
+      "source_path_id": 1581,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 13757317120
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1581,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 13757317120
+    },
+    {
+      "field_name": "ref_1_15703474176",
+      "source_path_id": 1582,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 15703474176
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1582,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 15703474176
+    },
+    {
+      "field_name": "ref_1_1073741824",
+      "source_path_id": 1583,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 1073741824
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1583,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 1073741824
+    },
+    {
+      "field_name": "ref_1_4932501504",
+      "source_path_id": 1584,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 4932501504
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1584,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 4932501504
+    },
+    {
+      "field_name": "ref_1_1459617792",
+      "source_path_id": 1585,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 1459617792
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1585,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 1459617792
+    },
+    {
+      "field_name": "ref_1_2332033024",
+      "source_path_id": 1586,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 2332033024
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1586,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 2332033024
+    },
+    {
+      "field_name": "ref_1_13505658880",
+      "source_path_id": 1587,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 13505658880
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1587,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 13505658880
+    },
+    {
+      "field_name": "ref_1_11559501824",
+      "source_path_id": 1588,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 11559501824
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1588,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 11559501824
+    },
+    {
+      "field_name": "ref_1_1308622848",
+      "source_path_id": 1589,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 1308622848
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1589,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 1308622848
+    },
+    {
+      "field_name": "ref_1_17850957824",
+      "source_path_id": 1590,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 17850957824
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1590,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 17850957824
+    },
+    {
+      "field_name": "ref_1_13757317120",
+      "source_path_id": 1591,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 13757317120
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 1591,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 13757317120
+    },
+    {
+      "field_name": "ref_0_10101",
+      "source_path_id": 16,
+      "source_type": "Material",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_0_10101",
+      "source_path_id": 17,
+      "source_type": "Material",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_0_10101",
+      "source_path_id": 18,
+      "source_type": "Material",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_0_10101",
+      "source_path_id": 19,
+      "source_type": "Material",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_0_10101",
+      "source_path_id": 20,
+      "source_type": "Material",
+      "target_path_id": 10101
+    },
+    {
+      "field_name": "ref_1_6157238272",
+      "source_path_id": 62,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 62,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "ref_1_6157238272",
+      "source_path_id": 63,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 63,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "ref_1_6157238272",
+      "source_path_id": 64,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 64,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "ref_1_6157238272",
+      "source_path_id": 65,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 65,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 6157238272
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 66,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 66,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 67,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 67,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 68,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 68,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 69,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 69,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_9848225792",
+      "source_path_id": 70,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 9848225792
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 70,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 9848225792
+    },
+    {
+      "field_name": "ref_1_9848225792",
+      "source_path_id": 71,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 9848225792
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 71,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 9848225792
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 72,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 72,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_8405385216",
+      "source_path_id": 73,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 73,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 8405385216
+    },
+    {
+      "field_name": "ref_1_9848225792",
+      "source_path_id": 74,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 9848225792
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 74,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 9848225792
+    },
+    {
+      "field_name": "ref_1_12213813248",
+      "source_path_id": 75,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 12213813248
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 75,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 12213813248
+    },
+    {
+      "field_name": "ref_1_2785017856",
+      "source_path_id": 76,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 2785017856
+    },
+    {
+      "field_name": "m_Script",
+      "source_path_id": 76,
+      "source_type": "MonoBehaviour",
+      "target_path_id": 2785017856
+    }
+  ],
+  "broken_references_count": 119,
+  "total_objects": 2836
+}

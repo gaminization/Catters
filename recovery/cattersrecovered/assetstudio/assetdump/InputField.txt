@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InputField",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "InputField",
+    "m_PathID": 893,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GetStateGraph",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "GetStateGraph",
+    "m_PathID": 12,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ExclusiveOr",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ExclusiveOr",
+    "m_PathID": 847,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

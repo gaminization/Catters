@@ -1,0 +1,6 @@
+{
+    "m_PathID": 5,
+    "type": "ScriptMapper",
+    "classID": 94,
+    "byteSize": 10153
+}

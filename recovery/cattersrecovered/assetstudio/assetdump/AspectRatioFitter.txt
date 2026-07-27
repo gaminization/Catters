@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AspectRatioFitter",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "AspectRatioFitter",
+    "m_PathID": 593,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

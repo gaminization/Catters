@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PlayModeRunnerCallback",
+    "m_Namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "PlayModeRunnerCallback",
+    "m_PathID": 278,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

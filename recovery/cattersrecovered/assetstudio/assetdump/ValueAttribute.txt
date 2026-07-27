@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ValueAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ValueAttribute",
+    "m_PathID": 629,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

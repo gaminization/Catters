@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IncrementHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IncrementHandler",
+    "m_PathID": 904,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

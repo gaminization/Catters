@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IMaskable",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "IMaskable",
+    "m_PathID": 423,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

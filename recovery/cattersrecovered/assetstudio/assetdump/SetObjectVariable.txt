@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SetObjectVariable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SetObjectVariable",
+    "m_PathID": 387,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

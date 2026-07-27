@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EnumerableCloner",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "EnumerableCloner",
+    "m_PathID": 773,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

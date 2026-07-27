@@ -1,0 +1,145 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1454",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 332
+        },
+        {
+            "Name": "MeshFilter_#2041",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 919
+        },
+        {
+            "Name": "MeshRenderer_#1778",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 656
+        },
+        {
+            "Name": "fence_double (8)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1448
+        },
+        {
+            "Name": "",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 1188
+        }
+    ],
+    "m_Name": "fence_double (8)",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0,
+            "Y": 0.7071068,
+            "Z": 0.0,
+            "W": 0.7071068
+        },
+        "m_LocalPosition": {
+            "X": -4.0,
+            "Y": 0.0,
+            "Z": -15.95131
+        },
+        "m_LocalScale": {
+            "X": 0.5,
+            "Y": 0.75,
+            "Z": 1.0
+        },
+        "m_Children": [],
+        "m_Father": {
+            "Name": "Transform_#1515",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 393
+        },
+        "m_GameObject": {
+            "Name": "fence_double (8)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 3
+        },
+        "m_PathID": 332,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 68
+    },
+    "m_MeshRenderer": {
+        "m_Materials": [
+            {
+                "Name": "fence",
+                "IsNull": false,
+                "m_FileID": 2,
+                "m_PathID": 8
+            }
+        ],
+        "m_StaticBatchInfo": {
+            "firstSubMesh": 0,
+            "subMeshCount": 0
+        },
+        "m_SubsetIndices": null,
+        "m_GameObject": {
+            "Name": "fence_double (8)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 3
+        },
+        "m_PathID": 656,
+        "type": "MeshRenderer",
+        "classID": 23,
+        "byteSize": 156
+    },
+    "m_MeshFilter": {
+        "m_Mesh": {
+            "Name": "fence_double",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 17
+        },
+        "m_GameObject": {
+            "Name": "fence_double (8)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 3
+        },
+        "m_PathID": 919,
+        "type": "MeshFilter",
+        "classID": 33,
+        "byteSize": 24
+    },
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": {
+        "m_Avatar": {
+            "Name": "fence_doubleAvatar",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 26
+        },
+        "m_Controller": {
+            "Name": "",
+            "IsNull": true,
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_HasTransformHierarchy": true,
+        "m_Enabled": 1,
+        "m_GameObject": {
+            "Name": "fence_double (8)",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 3
+        },
+        "m_PathID": 1448,
+        "type": "Animator",
+        "classID": 95,
+        "byteSize": 56
+    },
+    "m_Animation": null,
+    "m_PathID": 3,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 91
+}

@@ -1,0 +1,6 @@
+{
+    "m_PathID": 1561,
+    "type": "Light",
+    "classID": 108,
+    "byteSize": 264
+}

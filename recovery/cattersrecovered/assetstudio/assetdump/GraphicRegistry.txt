@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GraphicRegistry",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "GraphicRegistry",
+    "m_PathID": 459,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Benchmark01_UGUI",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "Benchmark01_UGUI",
+    "m_PathID": 630,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

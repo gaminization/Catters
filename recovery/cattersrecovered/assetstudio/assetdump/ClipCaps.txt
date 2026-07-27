@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TimelineClipCapsExtensions",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "ClipCaps",
+    "m_PathID": 445,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

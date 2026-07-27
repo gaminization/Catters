@@ -1,0 +1,62 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1774",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 652
+        }
+    ],
+    "m_Name": "DEF_shoulder.R",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": 0.0423876,
+            "Y": 0.8223138,
+            "Z": -0.5588824,
+            "W": 0.09825329
+        },
+        "m_LocalPosition": {
+            "X": 0.0001498771,
+            "Y": 0.0003095996,
+            "Z": -0.0002208466
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 1.000001,
+            "Z": 0.9999999
+        },
+        "m_Children": [
+            {
+                "Name": "Transform_#1583",
+                "IsNull": false,
+                "m_FileID": 0,
+                "m_PathID": 461
+            }
+        ],
+        "m_Father": {
+            "Name": "Transform_#1772",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 650
+        },
+        "m_GameObject": {
+            "Name": "DEF_shoulder.R",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 302
+        },
+        "m_PathID": 652,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 80
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 302,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 43
+}

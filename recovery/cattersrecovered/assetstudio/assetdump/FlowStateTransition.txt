@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "FlowStateTransition",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "FlowStateTransition",
+    "m_PathID": 56,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

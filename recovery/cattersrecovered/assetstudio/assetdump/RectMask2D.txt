@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RectMask2D",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "RectMask2D",
+    "m_PathID": 222,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

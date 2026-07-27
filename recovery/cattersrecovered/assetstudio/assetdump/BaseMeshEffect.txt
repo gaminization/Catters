@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "BaseMeshEffect",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "BaseMeshEffect",
+    "m_PathID": 500,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

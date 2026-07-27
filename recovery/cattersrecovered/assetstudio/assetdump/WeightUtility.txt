@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "WeightUtility",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "WeightUtility",
+    "m_PathID": 982,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

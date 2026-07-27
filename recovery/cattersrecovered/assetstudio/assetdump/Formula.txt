@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Formula",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Formula",
+    "m_PathID": 240,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

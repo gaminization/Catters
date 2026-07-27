@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnBeginDrag",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnBeginDrag",
+    "m_PathID": 686,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

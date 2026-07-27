@@ -1,0 +1,62 @@
+{
+    "m_Components": [
+        {
+            "Name": "Transform_#1613",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 491
+        }
+    ],
+    "m_Name": "DEF_back.003",
+    "m_Transform": {
+        "m_LocalRotation": {
+            "X": -0.000004749422,
+            "Y": 0.7128034,
+            "Z": 0.701364,
+            "W": -0.00000486001
+        },
+        "m_LocalPosition": {
+            "X": 0.0000000000000001000824,
+            "Y": -0.00000000001201743,
+            "Z": 0.000000000004175577
+        },
+        "m_LocalScale": {
+            "X": 1.0,
+            "Y": 0.9999998,
+            "Z": 0.9999999
+        },
+        "m_Children": [
+            {
+                "Name": "Transform_#1596",
+                "IsNull": false,
+                "m_FileID": 0,
+                "m_PathID": 474
+            }
+        ],
+        "m_Father": {
+            "Name": "Transform_#1600",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 478
+        },
+        "m_GameObject": {
+            "Name": "DEF_back.003",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 300
+        },
+        "m_PathID": 491,
+        "type": "Transform",
+        "classID": 4,
+        "byteSize": 80
+    },
+    "m_MeshRenderer": null,
+    "m_MeshFilter": null,
+    "m_SkinnedMeshRenderer": null,
+    "m_Animator": null,
+    "m_Animation": null,
+    "m_PathID": 300,
+    "type": "GameObject",
+    "classID": 1,
+    "byteSize": 39
+}

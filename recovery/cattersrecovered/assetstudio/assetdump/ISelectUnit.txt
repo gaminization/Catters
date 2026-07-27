@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ISelectUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ISelectUnit",
+    "m_PathID": 869,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

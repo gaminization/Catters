@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SetUpTearDownCommand",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "SetUpTearDownCommand",
+    "m_PathID": 954,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 124
+}

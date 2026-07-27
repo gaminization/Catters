@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LudiqScriptableObject",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "LudiqScriptableObject",
+    "m_PathID": 755,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TestResultExtensions",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "TestResultExtensions",
+    "m_PathID": 443,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

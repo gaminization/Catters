@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnDrawGizmos",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnDrawGizmos",
+    "m_PathID": 24,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

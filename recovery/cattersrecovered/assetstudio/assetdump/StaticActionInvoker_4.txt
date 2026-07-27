@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "StaticActionInvoker",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "StaticActionInvoker_4",
+    "m_PathID": 984,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InspectorAdaptiveWidthAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "InspectorAdaptiveWidthAttribute",
+    "m_PathID": 679,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

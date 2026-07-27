@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IGraphNesterElement",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IGraphNesterElement",
+    "m_PathID": 596,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

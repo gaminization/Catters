@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "StaticInvokerBase",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "StaticInvokerBase",
+    "m_PathID": 437,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

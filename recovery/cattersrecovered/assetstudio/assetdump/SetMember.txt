@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SetMember",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "SetMember",
+    "m_PathID": 522,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

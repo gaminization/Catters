@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Button",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Button",
+    "m_PathID": 338,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

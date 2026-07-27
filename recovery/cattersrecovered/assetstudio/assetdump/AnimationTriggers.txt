@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AnimationTriggers",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "AnimationTriggers",
+    "m_PathID": 844,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

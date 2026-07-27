@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "FollowPlayer",
+    "m_Namespace": "",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "FollowPlayer",
+    "m_PathID": 294,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 76
+}

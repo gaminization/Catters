@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ITweenValue",
+    "m_Namespace": "UnityEngine.UI.CoroutineTween",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "CoroutineTween",
+    "m_PathID": 546,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

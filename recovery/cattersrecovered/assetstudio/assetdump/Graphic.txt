@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Graphic",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Graphic",
+    "m_PathID": 712,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

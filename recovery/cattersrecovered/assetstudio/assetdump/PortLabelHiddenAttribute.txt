@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "PortLabelHiddenAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "PortLabelHiddenAttribute",
+    "m_PathID": 386,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

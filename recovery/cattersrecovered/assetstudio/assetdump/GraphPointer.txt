@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GraphPointer",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "GraphPointer",
+    "m_PathID": 1051,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

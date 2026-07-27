@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "NotificationUtilities",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "NotificationUtilities",
+    "m_PathID": 787,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

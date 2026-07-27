@@ -1,6 +1,0 @@
-{
-    "m_PathID": 17,
-    "type": "RuntimeInitializeOnLoadManager",
-    "classID": 300,
-    "byteSize": 0
-}

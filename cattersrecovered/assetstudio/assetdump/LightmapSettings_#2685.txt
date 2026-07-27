@@ -1,6 +1,0 @@
-{
-    "m_PathID": 1563,
-    "type": "LightmapSettings",
-    "classID": 157,
-    "byteSize": 72
-}

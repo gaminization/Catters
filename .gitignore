@@ -7,8 +7,9 @@
 [Bb]uilds/
 [Lg]ogs/
 [Mm]emoryCaptures/
-Applications/
-recoverytool/logs/
+recovery/Applications/
+recovery/recoverytool/logs/
+recovery/extracted_apk/
 *.csproj
 *.unityproj
 *.sln

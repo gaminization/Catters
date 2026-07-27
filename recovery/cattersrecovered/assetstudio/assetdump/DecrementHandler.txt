@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "DecrementHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "DecrementHandler",
+    "m_PathID": 119,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

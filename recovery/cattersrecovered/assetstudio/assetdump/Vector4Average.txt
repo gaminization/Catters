@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector4Average",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector4Average",
+    "m_PathID": 666,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

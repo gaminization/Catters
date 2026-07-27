@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EnumerableTestState",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "EnumerableTestState",
+    "m_PathID": 239,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 124
+}

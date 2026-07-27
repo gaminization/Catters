@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TimeNotificationBehaviour",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TimeNotificationBehaviour",
+    "m_PathID": 745,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsTypeConverter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsTypeConverter",
+    "m_PathID": 134,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

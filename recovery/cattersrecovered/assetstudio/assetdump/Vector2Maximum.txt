@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector2Maximum",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector2Maximum",
+    "m_PathID": 168,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

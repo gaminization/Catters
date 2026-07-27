@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LogScope",
+    "m_Namespace": "UnityEngine.TestTools.Logging",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "LogScope",
+    "m_PathID": 328,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

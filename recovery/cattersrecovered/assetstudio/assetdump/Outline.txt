@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Outline",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Outline",
+    "m_PathID": 959,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

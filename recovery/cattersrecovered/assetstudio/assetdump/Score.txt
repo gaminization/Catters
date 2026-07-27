@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Score",
+    "m_Namespace": "",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "Score",
+    "m_PathID": 336,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 68
+}

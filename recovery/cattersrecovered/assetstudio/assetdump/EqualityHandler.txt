@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EqualityHandler",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "EqualityHandler",
+    "m_PathID": 836,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

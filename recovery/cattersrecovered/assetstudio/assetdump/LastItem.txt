@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LastItem",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "LastItem",
+    "m_PathID": 175,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

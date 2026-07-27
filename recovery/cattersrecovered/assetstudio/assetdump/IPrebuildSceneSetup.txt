@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IPrebuildSetup",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IPrebuildSceneSetup",
+    "m_PathID": 732,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

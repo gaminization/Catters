@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "MacroScriptableObject",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "MacroScriptableObject",
+    "m_PathID": 370,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

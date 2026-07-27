@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InspectorToggleLeftAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "InspectorToggleLeftAttribute",
+    "m_PathID": 266,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

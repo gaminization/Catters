@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ConditionalIgnoreAttribute",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "ConditionalIgnoreAttribute",
+    "m_PathID": 849,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

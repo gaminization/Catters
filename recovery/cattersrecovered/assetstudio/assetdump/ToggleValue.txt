@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ToggleValue",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "ToggleValue",
+    "m_PathID": 814,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

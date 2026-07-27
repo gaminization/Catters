@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "CanvasScaler",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "CanvasScaler",
+    "m_PathID": 64,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 92
+}

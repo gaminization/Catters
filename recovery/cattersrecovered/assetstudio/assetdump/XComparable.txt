@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "XComparable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "XComparable",
+    "m_PathID": 983,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

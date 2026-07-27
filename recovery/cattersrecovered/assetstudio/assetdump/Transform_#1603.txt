@@ -1,0 +1,42 @@
+{
+    "m_LocalRotation": {
+        "X": 0.3642151,
+        "Y": 0.01984563,
+        "Z": 0.07132613,
+        "W": 0.9283674
+    },
+    "m_LocalPosition": {
+        "X": -0.000000000004656613,
+        "Y": 0.0004160156,
+        "Z": 0.00000000002881279
+    },
+    "m_LocalScale": {
+        "X": 0.9999994,
+        "Y": 1.000001,
+        "Z": 0.9999989
+    },
+    "m_Children": [
+        {
+            "Name": "Transform_#1593",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 471
+        }
+    ],
+    "m_Father": {
+        "Name": "Transform_#1621",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 499
+    },
+    "m_GameObject": {
+        "Name": "DEF_hand.R",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 329
+    },
+    "m_PathID": 481,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 80
+}

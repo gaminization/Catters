@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TestResultRendererCallback",
+    "m_Namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "TestResultRendererCallback",
+    "m_PathID": 950,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 160
+}

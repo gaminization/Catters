@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ReflectionFieldAccessor",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ReflectionFieldAccessor",
+    "m_PathID": 183,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

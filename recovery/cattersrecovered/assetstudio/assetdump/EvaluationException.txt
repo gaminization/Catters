@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EvaluationException",
+    "m_Namespace": "Unity.VisualScripting.Dependencies.NCalc",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "EvaluationException",
+    "m_PathID": 436,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ILayerable",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "ILayerable",
+    "m_PathID": 128,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

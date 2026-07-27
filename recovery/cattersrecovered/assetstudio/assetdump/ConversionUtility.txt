@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ConversionUtility",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ConversionUtility",
+    "m_PathID": 1046,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

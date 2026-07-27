@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsMissingVersionConstructorException",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsExceptions",
+    "m_PathID": 356,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

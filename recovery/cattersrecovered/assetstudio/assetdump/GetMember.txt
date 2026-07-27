@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GetMember",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GetMember",
+    "m_PathID": 557,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

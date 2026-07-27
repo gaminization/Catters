@@ -1,0 +1,6 @@
+{
+    "m_PathID": 1560,
+    "type": "RenderSettings",
+    "classID": 104,
+    "byteSize": 333
+}

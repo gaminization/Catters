@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IStateSerializer",
+    "m_Namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IStateSerializer",
+    "m_PathID": 415,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 132
+}

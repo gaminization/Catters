@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "FontData",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "FontData",
+    "m_PathID": 90,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

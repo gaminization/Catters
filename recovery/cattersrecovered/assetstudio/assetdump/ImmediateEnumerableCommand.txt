@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ImmediateEnumerableCommand",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "ImmediateEnumerableCommand",
+    "m_PathID": 579,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

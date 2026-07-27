@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "CameraController",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "CameraController",
+    "m_PathID": 199,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

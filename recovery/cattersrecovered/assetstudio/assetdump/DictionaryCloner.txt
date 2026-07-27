@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "DictionaryCloner",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "DictionaryCloner",
+    "m_PathID": 798,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

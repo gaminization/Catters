@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnPointerUpMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnPointerUpMessageListener",
+    "m_PathID": 34,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnMouseUpAsButton",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnMouseUpAsButton",
+    "m_PathID": 161,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3Average",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3Average",
+    "m_PathID": 684,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

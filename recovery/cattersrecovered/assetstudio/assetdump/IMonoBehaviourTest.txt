@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IMonoBehaviourTest",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IMonoBehaviourTest",
+    "m_PathID": 699,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 124
+}

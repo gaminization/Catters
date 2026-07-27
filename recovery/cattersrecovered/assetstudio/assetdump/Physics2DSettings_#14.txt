@@ -1,0 +1,6 @@
+{
+    "m_PathID": 15,
+    "type": "Physics2DSettings",
+    "classID": 19,
+    "byteSize": 280
+}

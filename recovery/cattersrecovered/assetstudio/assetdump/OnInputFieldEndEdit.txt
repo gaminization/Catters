@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnInputFieldEndEdit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnInputFieldEndEdit",
+    "m_PathID": 707,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

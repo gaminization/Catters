@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Keyframe_DirectConverter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "Keyframe_DirectConverter",
+    "m_PathID": 905,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

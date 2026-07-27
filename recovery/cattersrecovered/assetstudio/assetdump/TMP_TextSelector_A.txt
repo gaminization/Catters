@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_TextSelector_A",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "TMP_TextSelector_A",
+    "m_PathID": 76,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "INesterUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "INesterUnit",
+    "m_PathID": 770,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

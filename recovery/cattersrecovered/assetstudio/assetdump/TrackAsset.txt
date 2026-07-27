@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TrackAsset",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TrackAsset",
+    "m_PathID": 267,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 96
+}

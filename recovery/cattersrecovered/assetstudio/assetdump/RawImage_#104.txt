@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RawImage",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "RawImage",
+    "m_PathID": 87,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

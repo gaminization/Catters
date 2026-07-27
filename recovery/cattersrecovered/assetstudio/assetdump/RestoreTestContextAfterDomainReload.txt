@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RestoreTestContextAfterDomainReload",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "RestoreTestContextAfterDomainReload",
+    "m_PathID": 165,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 180
+}

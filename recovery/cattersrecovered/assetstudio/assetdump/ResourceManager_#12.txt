@@ -1,0 +1,422 @@
+{
+    "m_Container": [
+        {
+            "Key": "color gradient presets/blue to purple - vertical",
+            "Value": {
+                "Name": "Blue to Purple - Vertical",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 62
+            }
+        },
+        {
+            "Key": "color gradient presets/dark to light green - vertical",
+            "Value": {
+                "Name": "Dark to Light Green - Vertical",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 63
+            }
+        },
+        {
+            "Key": "color gradient presets/light to dark green - vertical",
+            "Value": {
+                "Name": "Light to Dark Green - Vertical",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 64
+            }
+        },
+        {
+            "Key": "color gradient presets/yellow to orange - vertical",
+            "Value": {
+                "Name": "Yellow to Orange - Vertical",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 65
+            }
+        },
+        {
+            "Key": "fonts & materials/anton sdf",
+            "Value": {
+                "Name": "Anton SDF",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 66
+            }
+        },
+        {
+            "Key": "fonts & materials/anton sdf",
+            "Value": {
+                "Name": "Anton SDF Material",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 23
+            }
+        },
+        {
+            "Key": "fonts & materials/anton sdf",
+            "Value": {
+                "Name": "Anton SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 48
+            }
+        },
+        {
+            "Key": "fonts & materials/anton sdf - drop shadow",
+            "Value": {
+                "Name": "Anton SDF - Drop Shadow",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 1
+            }
+        },
+        {
+            "Key": "fonts & materials/anton sdf - outline",
+            "Value": {
+                "Name": "Anton SDF - Outline",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 2
+            }
+        },
+        {
+            "Key": "fonts & materials/anton sdf - sunny days",
+            "Value": {
+                "Name": "Anton SDF - Sunny Days",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 3
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf",
+            "Value": {
+                "Name": "Bangers SDF",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 67
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf",
+            "Value": {
+                "Name": "Bangers SDF Material",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 8
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf",
+            "Value": {
+                "Name": "Bangers SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 46
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf - drop shadow",
+            "Value": {
+                "Name": "Bangers SDF - Drop Shadow",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 4
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf - outline",
+            "Value": {
+                "Name": "Bangers SDF - Outline",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 5
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf glow",
+            "Value": {
+                "Name": "Bangers SDF Glow",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 6
+            }
+        },
+        {
+            "Key": "fonts & materials/bangers sdf logo",
+            "Value": {
+                "Name": "Bangers SDF Logo",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 7
+            }
+        },
+        {
+            "Key": "fonts & materials/electronic highway sign sdf",
+            "Value": {
+                "Name": "Electronic Highway Sign SDF",
+                "IsNull": false,
+                "m_FileID": 4,
+                "m_PathID": 33
+            }
+        },
+        {
+            "Key": "fonts & materials/electronic highway sign sdf",
+            "Value": {
+                "Name": "Electronic Highway Sign SDF Material",
+                "IsNull": false,
+                "m_FileID": 4,
+                "m_PathID": 10
+            }
+        },
+        {
+            "Key": "fonts & materials/electronic highway sign sdf",
+            "Value": {
+                "Name": "Electronic Highway Sign SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 4,
+                "m_PathID": 16
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf",
+            "Value": {
+                "Name": "LiberationSans SDF",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 73
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf",
+            "Value": {
+                "Name": "LiberationSans SDF Material",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 28
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf",
+            "Value": {
+                "Name": "LiberationSans SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 47
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - drop shadow",
+            "Value": {
+                "Name": "LiberationSans SDF - Drop Shadow",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 14
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - fallback",
+            "Value": {
+                "Name": "LiberationSans SDF - Fallback",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 72
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - fallback",
+            "Value": {
+                "Name": "LiberationSans SDF Material",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 27
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - fallback",
+            "Value": {
+                "Name": "LiberationSans SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 45
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - metalic green",
+            "Value": {
+                "Name": "LiberationSans SDF - Metalic Green",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 9
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - outline",
+            "Value": {
+                "Name": "LiberationSans SDF - Outline",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 15
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - overlay",
+            "Value": {
+                "Name": "LiberationSans SDF - Overlay",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 10
+            }
+        },
+        {
+            "Key": "fonts & materials/liberationsans sdf - soft mask",
+            "Value": {
+                "Name": "LiberationSans SDF - Soft Mask",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 11
+            }
+        },
+        {
+            "Key": "fonts & materials/oswald bold sdf",
+            "Value": {
+                "Name": "Oswald Bold SDF",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 68
+            }
+        },
+        {
+            "Key": "fonts & materials/oswald bold sdf",
+            "Value": {
+                "Name": "Oswald Bold SDF Material",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 24
+            }
+        },
+        {
+            "Key": "fonts & materials/oswald bold sdf",
+            "Value": {
+                "Name": "Oswald Bold SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 44
+            }
+        },
+        {
+            "Key": "fonts & materials/roboto-bold sdf",
+            "Value": {
+                "Name": "Roboto-Bold SDF",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 69
+            }
+        },
+        {
+            "Key": "fonts & materials/roboto-bold sdf",
+            "Value": {
+                "Name": "Roboto-Bold SDF Material",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 25
+            }
+        },
+        {
+            "Key": "fonts & materials/roboto-bold sdf",
+            "Value": {
+                "Name": "Roboto-Bold SDF Atlas",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 43
+            }
+        },
+        {
+            "Key": "fonts & materials/roboto-bold sdf - drop shadow",
+            "Value": {
+                "Name": "Roboto-Bold SDF - Drop Shadow",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 12
+            }
+        },
+        {
+            "Key": "fonts & materials/roboto-bold sdf - surface",
+            "Value": {
+                "Name": "Roboto-Bold SDF - Surface",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 13
+            }
+        },
+        {
+            "Key": "linebreaking following characters",
+            "Value": {
+                "Name": "LineBreaking Following Characters",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 56
+            }
+        },
+        {
+            "Key": "linebreaking leading characters",
+            "Value": {
+                "Name": "LineBreaking Leading Characters",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 55
+            }
+        },
+        {
+            "Key": "sprite assets/default sprite asset",
+            "Value": {
+                "Name": "Default Sprite Asset",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 70
+            }
+        },
+        {
+            "Key": "sprite assets/dropcap numbers",
+            "Value": {
+                "Name": "DropCap Numbers",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 71
+            }
+        },
+        {
+            "Key": "sprite assets/emojione",
+            "Value": {
+                "Name": "EmojiOne",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 74
+            }
+        },
+        {
+            "Key": "style sheets/default style sheet",
+            "Value": {
+                "Name": "Default Style Sheet",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 75
+            }
+        },
+        {
+            "Key": "tmp settings",
+            "Value": {
+                "Name": "TMP Settings",
+                "IsNull": false,
+                "m_FileID": 5,
+                "m_PathID": 76
+            }
+        }
+    ],
+    "m_PathID": 13,
+    "type": "ResourceManager",
+    "classID": 147,
+    "byteSize": 4968
+}

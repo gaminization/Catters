@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnCollisionExit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnCollisionExit",
+    "m_PathID": 1035,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

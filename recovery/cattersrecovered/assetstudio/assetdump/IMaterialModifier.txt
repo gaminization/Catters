@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IMaterialModifier",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "IMaterialModifier",
+    "m_PathID": 147,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

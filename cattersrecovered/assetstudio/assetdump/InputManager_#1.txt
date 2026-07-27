@@ -1,6 +1,0 @@
-{
-    "m_PathID": 2,
-    "type": "InputManager",
-    "classID": 13,
-    "byteSize": 1424
-}

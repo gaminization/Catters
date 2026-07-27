@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OnScroll",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "OnScroll",
+    "m_PathID": 661,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

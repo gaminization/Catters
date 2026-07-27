@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OutOfOrderExpectedLogMessageException",
+    "m_Namespace": "UnityEngine.TestTools.TestRunner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "OutOfOrderExpectedLogMessageException",
+    "m_PathID": 208,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 172
+}

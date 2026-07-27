@@ -1,8 +1,0 @@
-{
-    "m_Script": "77u/KFvvvZvjgJTjgIjjgIrjgIzjgI7jgJDjgJjjgJbjgJ3igJjigJzvvZ/CqyTigJTigKbigKXjgLPjgLTjgLVc77y777yIe8KjwqUi44CF44CH77yE77+l77+mICM=",
-    "m_Name": "LineBreaking Leading Characters",
-    "m_PathID": 55,
-    "type": "TextAsset",
-    "classID": 49,
-    "byteSize": 136
-}

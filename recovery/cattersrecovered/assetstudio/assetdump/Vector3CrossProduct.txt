@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3CrossProduct",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3CrossProduct",
+    "m_PathID": 302,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

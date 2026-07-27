@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "StencilMaterial",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "StencilMaterial",
+    "m_PathID": 457,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

@@ -1,0 +1,6 @@
+{
+    "m_PathID": 654,
+    "type": "Camera",
+    "classID": 20,
+    "byteSize": 184
+}

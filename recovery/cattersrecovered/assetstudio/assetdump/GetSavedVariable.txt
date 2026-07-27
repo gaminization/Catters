@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GetSavedVariable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "GetSavedVariable",
+    "m_PathID": 568,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

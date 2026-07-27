@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SkewTextExample",
+    "m_Namespace": "TMPro.Examples",
+    "m_AssemblyName": "Assembly-CSharp",
+    "m_Name": "SkewTextExample",
+    "m_PathID": 907,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 100
+}

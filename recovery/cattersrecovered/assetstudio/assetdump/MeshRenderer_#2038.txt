@@ -1,0 +1,31 @@
+{
+    "m_Materials": [
+        {
+            "Name": "pine brown",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 2
+        },
+        {
+            "Name": "pine tree green",
+            "IsNull": false,
+            "m_FileID": 2,
+            "m_PathID": 3
+        }
+    ],
+    "m_StaticBatchInfo": {
+        "firstSubMesh": 0,
+        "subMeshCount": 0
+    },
+    "m_SubsetIndices": null,
+    "m_GameObject": {
+        "Name": "Obstacle (70)",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 278
+    },
+    "m_PathID": 916,
+    "type": "MeshRenderer",
+    "classID": 23,
+    "byteSize": 168
+}

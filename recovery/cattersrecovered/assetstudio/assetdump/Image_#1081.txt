@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Image",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Image",
+    "m_PathID": 1064,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

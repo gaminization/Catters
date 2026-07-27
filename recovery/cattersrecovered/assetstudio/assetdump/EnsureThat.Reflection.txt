@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EnsureThat",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "EnsureThat.Reflection",
+    "m_PathID": 475,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 124
+}

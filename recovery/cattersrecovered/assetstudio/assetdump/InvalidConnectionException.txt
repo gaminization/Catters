@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InvalidConnectionException",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "InvalidConnectionException",
+    "m_PathID": 624,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

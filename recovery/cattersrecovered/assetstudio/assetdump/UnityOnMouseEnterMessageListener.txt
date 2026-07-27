@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnMouseEnterMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnMouseEnterMessageListener",
+    "m_PathID": 1003,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 152
+}

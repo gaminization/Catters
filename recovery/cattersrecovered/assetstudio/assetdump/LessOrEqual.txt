@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LessOrEqual",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "LessOrEqual",
+    "m_PathID": 491,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AnimationCurve_DirectConverter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "AnimationCurve_DirectConverter",
+    "m_PathID": 345,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 164
+}

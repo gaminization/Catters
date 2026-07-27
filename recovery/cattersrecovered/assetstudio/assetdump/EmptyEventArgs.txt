@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "EmptyEventArgs",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "EmptyEventArgs",
+    "m_PathID": 434,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "GraphReference",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "GraphReference",
+    "m_PathID": 558,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

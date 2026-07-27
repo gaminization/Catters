@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IAssemblyWrapper",
+    "m_Namespace": "UnityEngine.TestTools.Utils",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "IAssemblyWrapper",
+    "m_PathID": 121,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

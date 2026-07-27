@@ -1,8 +1,0 @@
-{
-    "companyName": "DefaultCompany",
-    "productName": "catters",
-    "m_PathID": 1,
-    "type": "PlayerSettings",
-    "classID": 129,
-    "byteSize": 872
-}

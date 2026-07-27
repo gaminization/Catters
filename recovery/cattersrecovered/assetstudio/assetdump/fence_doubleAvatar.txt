@@ -1,0 +1,239 @@
+{
+    "m_AvatarSize": 500,
+    "m_Avatar": {
+        "m_AvatarSkeleton": {
+            "m_Node": [
+                {
+                    "m_ParentId": -1,
+                    "m_AxesId": -1
+                }
+            ],
+            "m_ID": [
+                0
+            ],
+            "m_AxesArray": []
+        },
+        "m_AvatarSkeletonPose": {
+            "m_X": [
+                {
+                    "t": {
+                        "X": 0.0,
+                        "Y": 0.00000003814697,
+                        "Z": 0.0
+                    },
+                    "q": {
+                        "X": 0.00000008146034,
+                        "Y": 0.0,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "s": {
+                        "X": 1.0,
+                        "Y": 1.0,
+                        "Z": 1.0
+                    }
+                }
+            ]
+        },
+        "m_DefaultPose": {
+            "m_X": [
+                {
+                    "t": {
+                        "X": 0.0,
+                        "Y": 0.00000003814697,
+                        "Z": 0.0
+                    },
+                    "q": {
+                        "X": 0.00000008146034,
+                        "Y": 0.0,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "s": {
+                        "X": 1.0,
+                        "Y": 1.0,
+                        "Z": 1.0
+                    }
+                }
+            ]
+        },
+        "m_SkeletonNameIDArray": [
+            0
+        ],
+        "m_Human": {
+            "m_RootX": {
+                "t": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                },
+                "q": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 0.0,
+                    "W": 1.0
+                },
+                "s": {
+                    "X": 1.0,
+                    "Y": 1.0,
+                    "Z": 1.0
+                }
+            },
+            "m_Skeleton": {
+                "m_Node": [],
+                "m_ID": [],
+                "m_AxesArray": []
+            },
+            "m_SkeletonPose": {
+                "m_X": []
+            },
+            "m_LeftHand": {
+                "m_HandBoneIndex": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "m_RightHand": {
+                "m_HandBoneIndex": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "m_Handles": null,
+            "m_ColliderArray": null,
+            "m_HumanBoneIndex": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "m_HumanBoneMass": [
+                0.1454546,
+                0.1212121,
+                0.1212121,
+                0.04848485,
+                0.04848485,
+                0.009696971,
+                0.009696971,
+                0.03030303,
+                0.1454546,
+                0.1454546,
+                0.01212121,
+                0.04848485,
+                0.006060607,
+                0.006060607,
+                0.02424243,
+                0.02424243,
+                0.01818182,
+                0.01818182,
+                0.006060607,
+                0.006060607,
+                0.002424243,
+                0.002424243,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_ColliderIndex": null,
+            "m_Scale": 1.0,
+            "m_ArmTwist": 0.5,
+            "m_ForeArmTwist": 0.5,
+            "m_UpperLegTwist": 0.5,
+            "m_LegTwist": 0.5,
+            "m_ArmStretch": 0.05,
+            "m_LegStretch": 0.05,
+            "m_FeetSpacing": 0.0,
+            "m_HasLeftHand": false,
+            "m_HasRightHand": false,
+            "m_HasTDoF": false
+        },
+        "m_HumanSkeletonIndexArray": [],
+        "m_HumanSkeletonReverseIndexArray": [],
+        "m_RootMotionBoneIndex": -1,
+        "m_RootMotionBoneX": {
+            "t": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "q": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "s": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "m_RootMotionSkeleton": {
+            "m_Node": [],
+            "m_ID": [],
+            "m_AxesArray": []
+        },
+        "m_RootMotionSkeletonPose": {
+            "m_X": []
+        },
+        "m_RootMotionSkeletonIndexArray": []
+    },
+    "m_TOS": [
+        {
+            "Key": 0,
+            "Value": ""
+        }
+    ],
+    "m_Name": "fence_doubleAvatar",
+    "m_PathID": 26,
+    "type": "Avatar",
+    "classID": 90,
+    "byteSize": 708
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector3PerSecond",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector3PerSecond",
+    "m_PathID": 41,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

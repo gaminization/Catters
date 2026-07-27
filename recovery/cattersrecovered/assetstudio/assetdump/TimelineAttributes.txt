@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TrackClipTypeAttribute",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "TimelineAttributes",
+    "m_PathID": 282,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 116
+}

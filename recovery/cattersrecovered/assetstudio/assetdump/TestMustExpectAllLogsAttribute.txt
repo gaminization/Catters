@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TestMustExpectAllLogsAttribute",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "TestMustExpectAllLogsAttribute",
+    "m_PathID": 252,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

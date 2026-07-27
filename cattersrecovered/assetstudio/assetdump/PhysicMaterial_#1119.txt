@@ -1,6 +1,0 @@
-{
-    "m_PathID": 30,
-    "type": "PhysicMaterial",
-    "classID": 134,
-    "byteSize": 32
-}

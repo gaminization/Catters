@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnitPreservation",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "UnitPreservation",
+    "m_PathID": 999,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

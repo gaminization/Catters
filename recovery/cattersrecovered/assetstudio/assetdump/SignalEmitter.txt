@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "SignalEmitter",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "SignalEmitter",
+    "m_PathID": 96,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 104
+}

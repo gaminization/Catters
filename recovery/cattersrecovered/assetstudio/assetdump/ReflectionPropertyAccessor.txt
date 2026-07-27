@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ReflectionPropertyAccessor",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "ReflectionPropertyAccessor",
+    "m_PathID": 466,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

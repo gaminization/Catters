@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IGettable",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "IGettable",
+    "m_PathID": 925,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

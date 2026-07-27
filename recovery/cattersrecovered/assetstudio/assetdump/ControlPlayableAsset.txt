@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "ControlPlayableAsset",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "ControlPlayableAsset",
+    "m_PathID": 315,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LogEvent",
+    "m_Namespace": "UnityEngine.TestTools.Logging",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "LogEvent",
+    "m_PathID": 59,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

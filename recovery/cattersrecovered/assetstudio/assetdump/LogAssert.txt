@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LogAssert",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "LogAssert",
+    "m_PathID": 854,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

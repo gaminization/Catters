@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Clipping",
+    "m_Namespace": "UnityEngine.UI",
+    "m_AssemblyName": "UnityEngine.UI",
+    "m_Name": "Clipping",
+    "m_PathID": 451,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 84
+}

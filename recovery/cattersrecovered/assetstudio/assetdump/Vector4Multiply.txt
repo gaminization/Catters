@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector4Multiply",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector4Multiply",
+    "m_PathID": 54,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

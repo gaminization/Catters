@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "OuterUnityTestActionCommand",
+    "m_Namespace": "UnityEngine.TestTools",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "OuterUnityTestActionCommand",
+    "m_PathID": 67,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 140
+}

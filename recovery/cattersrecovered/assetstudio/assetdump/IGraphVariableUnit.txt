@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IGraphVariableUnit",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "IGraphVariableUnit",
+    "m_PathID": 598,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

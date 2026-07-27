@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "InspectableIfAttribute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "InspectableIfAttribute",
+    "m_PathID": 105,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 136
+}

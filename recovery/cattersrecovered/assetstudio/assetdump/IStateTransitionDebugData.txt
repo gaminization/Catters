@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IStateTransitionDebugData",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.State",
+    "m_Name": "IStateTransitionDebugData",
+    "m_PathID": 81,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 144
+}

@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "RayConverter",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "RayConverter",
+    "m_PathID": 43,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

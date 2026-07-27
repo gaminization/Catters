@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsConfig",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsConfig",
+    "m_PathID": 672,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 116
+}

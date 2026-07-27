@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Serialization",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "Serialization",
+    "m_PathID": 449,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

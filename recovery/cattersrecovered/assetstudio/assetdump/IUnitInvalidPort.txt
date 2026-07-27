@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "IUnitInvalidPort",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "IUnitInvalidPort",
+    "m_PathID": 474,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

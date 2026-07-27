@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityOnScrollbarValueChangedMessageListener",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "UnityOnScrollbarValueChangedMessageListener",
+    "m_PathID": 927,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 176
+}

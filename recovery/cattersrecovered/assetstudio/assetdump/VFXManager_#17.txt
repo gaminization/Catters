@@ -1,0 +1,6 @@
+{
+    "m_PathID": 20,
+    "type": "VFXManager",
+    "classID": 937362698,
+    "byteSize": 100
+}

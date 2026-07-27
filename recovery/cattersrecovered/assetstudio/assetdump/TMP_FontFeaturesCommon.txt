@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "TMP_GlyphValueRecord",
+    "m_Namespace": "TMPro",
+    "m_AssemblyName": "Unity.TextMeshPro",
+    "m_Name": "TMP_FontFeaturesCommon",
+    "m_PathID": 173,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 108
+}

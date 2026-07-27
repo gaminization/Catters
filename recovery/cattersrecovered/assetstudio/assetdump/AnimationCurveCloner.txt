@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AnimationCurveCloner",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "AnimationCurveCloner",
+    "m_PathID": 1041,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 128
+}

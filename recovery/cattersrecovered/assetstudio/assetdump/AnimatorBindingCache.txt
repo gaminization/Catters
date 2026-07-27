@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "AnimatorBindingCache",
+    "m_Namespace": "UnityEngine.Timeline",
+    "m_AssemblyName": "Unity.Timeline",
+    "m_Name": "AnimatorBindingCache",
+    "m_PathID": 883,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 112
+}

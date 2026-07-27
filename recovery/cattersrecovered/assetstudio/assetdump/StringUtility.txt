@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "StringUtility",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "StringUtility",
+    "m_PathID": 424,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

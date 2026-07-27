@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "LudiqBehaviour",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "LudiqBehaviour",
+    "m_PathID": 372,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

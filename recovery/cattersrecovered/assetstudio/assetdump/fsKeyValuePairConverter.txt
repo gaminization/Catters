@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsKeyValuePairConverter",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsKeyValuePairConverter",
+    "m_PathID": 248,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 148
+}

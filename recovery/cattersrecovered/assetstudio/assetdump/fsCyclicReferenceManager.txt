@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "fsCyclicReferenceManager",
+    "m_Namespace": "Unity.VisualScripting.FullSerializer.Internal",
+    "m_AssemblyName": "Unity.VisualScripting.Core",
+    "m_Name": "fsCyclicReferenceManager",
+    "m_PathID": 15,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 160
+}

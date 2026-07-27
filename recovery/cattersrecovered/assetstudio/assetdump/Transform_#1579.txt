@@ -1,0 +1,42 @@
+{
+    "m_LocalRotation": {
+        "X": 0.3923935,
+        "Y": -0.05155455,
+        "Z": -0.04892306,
+        "W": 0.9170475
+    },
+    "m_LocalPosition": {
+        "X": -0.00000000007159542,
+        "Y": 0.0002881536,
+        "Z": 0.00000000003492459
+    },
+    "m_LocalScale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+    },
+    "m_Children": [
+        {
+            "Name": "Transform_#1770",
+            "IsNull": false,
+            "m_FileID": 0,
+            "m_PathID": 648
+        }
+    ],
+    "m_Father": {
+        "Name": "Transform_#1595",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 473
+    },
+    "m_GameObject": {
+        "Name": "DEF_toe.L",
+        "IsNull": false,
+        "m_FileID": 0,
+        "m_PathID": 326
+    },
+    "m_PathID": 457,
+    "type": "Transform",
+    "classID": 4,
+    "byteSize": 80
+}

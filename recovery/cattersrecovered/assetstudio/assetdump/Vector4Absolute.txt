@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "Vector4Absolute",
+    "m_Namespace": "Unity.VisualScripting",
+    "m_AssemblyName": "Unity.VisualScripting.Flow",
+    "m_Name": "Vector4Absolute",
+    "m_PathID": 612,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 120
+}

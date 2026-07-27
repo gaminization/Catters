@@ -1,0 +1,6 @@
+{
+    "m_PathID": 32,
+    "type": "LightProbes",
+    "classID": 258,
+    "byteSize": 40
+}

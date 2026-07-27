@@ -1,0 +1,10 @@
+{
+    "m_ClassName": "UnityWorkItemDataHolder",
+    "m_Namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "m_AssemblyName": "UnityEngine.TestRunner",
+    "m_Name": "UnityWorkItemDataHolder",
+    "m_PathID": 397,
+    "type": "MonoScript",
+    "classID": 115,
+    "byteSize": 156
+}
