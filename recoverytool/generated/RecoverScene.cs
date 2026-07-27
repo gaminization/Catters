@@ -5165,6 +5165,9 @@ public static class RecoverScene
             ((PlayerMovement)(object)mb_278_PlayerMovement).ForwardForce = 0.25f;
             ((PlayerMovement)(object)mb_278_PlayerMovement).KeySideForce = 1.0f;
             ((PlayerMovement)(object)mb_278_PlayerMovement).ButtonSideForce = 1.0f;
+            ((PlayerMovement)(object)mb_278_PlayerMovement).rb = createdObjects.ContainsKey(140) ? createdObjects[140].GetComponent<Rigidbody>() : null;
+            ((PlayerMovement)(object)mb_278_PlayerMovement).left = createdObjects.ContainsKey(121) ? createdObjects[121].GetComponent<MyButton>() : null;
+            ((PlayerMovement)(object)mb_278_PlayerMovement).right = createdObjects.ContainsKey(30) ? createdObjects[30].GetComponent<MyButton>() : null;
         }
         if (mb_278_PlayerCollision != null) {
             mb_278_PlayerCollision.move = createdObjects.ContainsKey(140) ? createdObjects[140].GetComponent<PlayerMovement>() : null;
